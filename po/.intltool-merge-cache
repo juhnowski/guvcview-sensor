@@ -1,0 +1,801 @@
+plPULSEAUDIOPULSEAUDIOruNumber of Pictures to captureКоличество снимковitMPG2 - MPG2 formatMPG2 - formato MPG2csMJPG - compressedMJPG - komprimovanýsrFocus (absolute)Фокус (апсолутни)esRed BalanceBalance de rojoshrnewnovoheMake sure the device driver supports v4l2.וודא שמנהל ההתקן שלך תואם v4l2.esCapture:Captura:cscancelzrušititFocus (absolute)Messa a fuoco (assoluta)it---- Audio Effects -------- Effetti audio ----ptExposureExposiçãohrExposure (Absolute)Izloženost (Apsolutna)ruStop VideoСтопplWhite Balance TemperatureTemperatura balansu bielisr12 bit12 битаpt Negative NegativosrShutter Priority ModeПриоритет затварачаespropertiespropiedadesplHueBarwa:itDefaultsRipristinafrstart newcommencez nouveauruVideo File name (capture from start)Имя видео-файла (запись сразу после запуска)ukset Focusвстановити фокусhr Mirror ZrcaloukVideo capture time (in seconds)Тривалість запису (сек.)zh_TW Mirror鏡像(水平翻轉)nlLeftLinkspt_BRNumber of initial frames to skipNumero inicial de quadros a ignoraresVideo capture time (in seconds)Tiempo de la captura video (segundos)esmb decision:   mb desición   deLED1 FrequencyFrequenz LED1euGUVCViewer ControlsGUVCViewer kontrolakplFLV1 - flash video 1FLV1 - flash video 1frFocus, AutoMise au Point Automatiquezh_TWVideo & Files影像&檔案itGuvcview error:
+
+Unable to allocate BuffersErrore di Guvcview:
+
+Impossibile allocare i bufferplCap. VideoPrzechwicenie WideoptLED1 FrequencyFrequência LED1glChannels:Canles:ruMake sure your device driver is v4l2 compliant
+and that it is properly installed.Убедитесь что драйвер совместим с v4l2
+и правильно установленhrAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Dogodila se grješka prilikom dodavanja kontrola
+ekstenzije UVC driveru
+Pokrenite guvcview kao root (ili sudo).daWhite Balance Blue ComponentHvid balance blå komponentruChannels:Каналов:csPlease report it to http://developer.berlios.de/bugs/?group_id=8179Prosím nahlašte to na http://developer.berlios.de/bugs/?group_id=8179jaAperture Priority Mode絞り優先モードruGammaГаммаruBrightnessЯркостьesGainGananciaglHue, AutomaticMatiz, Automáticosrgop size:   гоп величина:   nlSave FileBestand OpslaanukGuvcview error:
+
+Read method errorПомилка:
+
+Помилка методу зчитування.zh_TWme method:   me method:   frDisable video processingDésactiver le post-traitement vidéodeDev. DefaultStandardfrGainGainukPULSEAUDIOPULSEAUDIOhrMPEG4-ASPMPEG4-ASPglPlease try mmap instead (--capture_method=1).Probe mmap no seu lugar  (--capture_method=1).ptMPEG4-AVC (H264)MPEG4-AVC (H264)ukExposureЕкспозиціяjaAuto Focus (continuous)オートフォーカス(連続)deWhite Balance Blue ComponentWeißabgleich (Blau)heLED1 Modeמצב LED1zh_TWMPG2 - MPG2 formatMPG2 - MPG2 formatruApplyПрименитьitVideo File:File video:plVideo Format:Format wideo:plPlease make sure the camera is connected
+and that the correct driver is installed.Proszę się upewnić, czy kamera jest podłączona
+oraz czy jest zainstalowany odpowiedni sterownik.pt_BRGuvcview Warning:Alerta Guvcview:csMake sure your device driver is v4l2 compliant
+and that it is properly installed.Ujistěte se, že ovladač vašeho přístroje je kompatibilní s v4|2
+a že je správně nainstalován.srHue, AutomaticНијанса, аутоматскиruHardware accelaration (enable(1) | disable(0))Аппаратное ускорение (вкл.(1) | выкл.(0))esHorizontal FlipGiro horizontalptGuvcview error:
+
+UVC Extension controlsGuvcview erro:
+
+Controlos UVC dinâmicosheYUY2 - uncomp YUVYUY2 - YUV לא מקובץzh_TWcancel取消pt_BRPlease report it to http://developer.berlios.de/bugs/?group_id=8179Por favor, reporte em http://developer.berlios.de/bugs/?group_id=8179heGainהישגsr Mono МоноptInput Device:Dispositivo de som:esColor KillerAnulador de colortrPlease reconnect your camera.Lütfen  kameranı tekrar bağla.srGuvcview Video CaptureКамерица — видео снимањеruAuto ExposureАвто выдержкаhrMPEG4-AVC (H264)MPEG4-AVC (H264)itGuvcview error:
+
+Unable to start with minimum setupErrore di Guvcview:
+
+Impossibile avviare con l'installazione minimaptMake sure the device driver supports v4l2.Por favor verifique se o driver suporta v4l2.glBlue BalanceBalance azulzh_TWFocus, Automatic對焦,自動frMake sure the device driver supports v4l2.Veuillez vérifier que le driver du matériel supporte V4L2.csVideo File:Video soubor:jaDisable video processingビデオ処理 を無効にするeuGuvcview error:
+
+Can't set a valid video stream for guvcviewGucview errorea:
+
+Ezin izan da bideo-korrontea ezarriesQuality:Calidad:esHue, AutomaticMatiz, automáticodeExposure, Auto PriorityBelichtung, automatische Prioritätzh_TWLoad File讀取檔案itGuvcview Warning:Avviso di Guvcview:pt_BRAuto ExposureExposição automáticaplGuvcview error:
+
+Unable to create Video ThreadBłąd Guvcview:
+
+Nie można utworzyć wątku wideoukGuvcview Warning:Попередження:ptVertical FlipRotação VerticalfrContrastContrastecsGuvcview error:
+
+Unable to allocate BuffersChyba Guvcview:
+
+Nelze alokovat BufferyukFocus, AutomaticАвто фокусpt_BR1 - mono1 - monopt_BRFocus, AbsoluteFoco, absolutocsWhite Balance Component, AutoKomponenta vyvážení bílé, Autocs1 - mono1 - monoesRGB - uncomp BMPRGB - s/comp BMPruGuvcview error:
+
+Can't set a valid video stream for guvcviewОшибка Guvcview:
+Правильный видео поток не может быть установлен для guvcviewsrWhite Balance Temperature, AutoТемпература равнотеже белог, аутоitSave FileSalva filesr2 - stereo2 — стереоpt_BRMPEG4-AVC (H264)MPEG4-AVC (H264)heResolution:רזולוציה:zh_TW Fuzz模糊plPrivacyPrywatnośćeuMake sure the device driver supports v4l2.Ziurtatu gailuaren kontrolatzaileak v4I2 eusten duelaptGuvcview error:
+
+Unable to open deviceGuvcview erro:
+
+Não foi possivel conectar a camerazh_TWHue, Automatic自動色調hrMS MP4 V3MS MP4 V3pt_BR monotonic pts pts monotonicoptaudio codec valuesValores do CodecglVideo Format:Formato de vídeo:srImage File nameИме датотеке сликеptBrightnessBrilhoheset Focusהגדר מיקודitFile num:%dFile numero: %dukPan, ResetСкинути поворотukAudioАудіоplmax. qdiff:   max. qdiff:   srBlinkingТреперењеeuDownBeheranlDownBenedenesApplyAplicaritInput Device:Dispositivo di ingresso:deImage File:Bilddatei:csExposureExpoziceitLoad FileCarica filedeCap. VideoVideo aufnehmenitHorizontal FlipRifletti orizzontalmenteplUpGórapl Echo EchodeFile,AutoDatei,AutomatischsrcancelоткажиhrNumber of Pictures to captureBroj Slika za snimitiptHorizontal CenterEixo HorizontalplFocus, RelativeOstrość względnaes---- Audio Effects -------- Efectos de Audio ----euManual ModeEskuzko moduadaBrightnessLysstyrkejaPower Line Frequency電源ライン周波数jaHue色相itMake sure the device driver supports v4l2.Assicurarsi che il driver del dispositivo supporti v4l2.esBlue BalanceBalance de azulesdeWhite Balance Component, AutoAutomatischer Weißabgleich (Komponente)glPlease make sure the camera is connected
+and that the correct driver is installed.Asegúrese de que a súa camara está conectada
+e que o controlador está correctamente instalada.heManual Modeמצב ידניitChroma AGCChroma AGCzh_TWAuto Focus (continuous)自動對焦(連續)itManual ModeModalità manualeesLoad FileCargar Archivopt WahWah WhaWahptPan, ResetRotação, RestaurarfrGuvcview:
+
+UVC Extension controlsGuvcview :
+
+Contrôles de l'extension UVCitGain, AutomaticGuadagno automaticozh_TWRaw bits per pixelRaw bits per pixeldaManual ModeManuel tilstanduk Pieces МозаїкаukApplyЗастосуватиukHue, AutomaticАвто відтінокptCamera Output:Saída de Câmera:hrUser ControlsKorisničke KontroleplAudio API:Audio API:ukBlack LevelРівень чорногоzh_TWPlease reconnect your camera.請重新連接你的攝影機hrAudioAudioesRaw bits per pixelBits por pixel (Raw)esExposure, AutoExposición, autozh_TWConfiguration file設置檔案zh_TW Particles顆粒euSharpnessGarbitasunapt_BRbit rate:   taxa de bits:   esMJPG - compressedMJPG - comprimidofrpropertiespropriétésfrFocus (absolute)Mise au Point (valeur absolue)hrCap. ImageSnimi SlikudeExposure, AutoBelichtung, AutomatischitFrame Rate:Frame rate:frBacklight CompensationCorrection de contre-jourcsSharpnessOstrostfrbit rate:   bit rate :   esbit rate:   media de bits:   ptDo White BalanceFaz Balanço de BrancossrTake Video by DefaultСними видео по основиfrGuvcview error:
+
+Unable to start with minimum setupErreur de Guvcview :
+
+Incapable de démarrer avec des réglages minimumcsFile num:%dČíslo souboru:%dpt_BRgop size:   tamanho do gop:   itAperture Priority ModeModalità di priorità dell'aperturafrCamera Output:Sortie Caméra:deStop VideoVideo stoppendaImage File:Billed fil:srLED1 ModeЛЕД1 режимpt_BRDefaultsPadrõesitQuality:Qualità:fraudio codec valuesvaleurs du codec audioplResolution:Rozdzielczość:euLeftEzkerreraruSave FileСохранить файлitFocus, RelativeMessa a fuoco relativajaGuvcview error:
+
+Unable to open deviceGuvcview エラー:
+
+デバイスをオープンすることができませんhe Pieces חלקיםptSharpnessEnfatizaçãoukSaturationНасиченістьptVideo Codec:Codec de Video:ruFrame Rate:Частота кадров:esBrightnessBrilloesAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Ocurrió un error al añadir los controles
+de extensión al controlador UVC
+Asegúrese de que ejecuta guvcview como root (o sudo).ukSample Rate:Частота дискредитації:itlast predictor count:   conteggio dell'ultimo indicatore:   frmax B frames:   nombre max d'images B:   daPlease reconnect your camera.Vær venlig at gentilslutte dit kamera.deVideo Format:Video-Format:esLeftIzquierdaesChroma AGCAGC de cromapt monotonic ptspts monotonicopt_BRMake sure your device driver is v4l2 compliant
+and that it is properly installed.Verifique se o driver é compatível com v4l2
+e se este se está instalado corretamente.heCamera Controlsפקדי מצלמהjaSave Fileファイルを保存するeuShutter Priority ModeObturadore lehentasun moduaruqblur:   qblur:   frApplyAssignerfrFrame size, default: 640x480Résolution, défaut: 640x480ptYUY2 - uncomp YUVYUY2 - s/comp YUVpt_BRHueMatizsrMPEG4-AVC (H264)МПЕГ4-АВЦ (Х264)dePlease reconnect your camera.Bitte schließen Sie Ihre Kamera erneut an.ru WahWah КвакушкаukPan/tilt ResetСкинути нахил/поворотzh_TW Sound聲音glErrorErroruWhite Balance Temperature, AutoТемпература баланса белого, автоdaFile,AutoFil, autoesPlease reconnect your camera.Vuelva a conectar su cámara.hrErrorGrješkaitmax. qdiff:   max. qdiff:   plVideo File:Plik Wideo:pt
+You have more than one video device installed.
+Do you want to try another one ?
+
+Foram detectados múltiplos dispositivos de vídeo.
+Quer tentar outro ?
+ukDisplays debug informationПоказує інформацію для відлагоджуванняpt Show VU meterMostrar volumeitA video viewer and capturer for the linux uvc driverUn visualizzatore e catturatore video per il driver uvc di linuxglqmin:   qmin:   csNot enough free space left on diskNa disku nezbývá dost volného místaitWhite Balance, AutomaticBilanciamento automatico del biancohrWhite Balance, AutomaticRavnoteža Bijele, AutomatskisrExtension controls were added to the UVC driverКонтроле проширења су додате УВЦ управљачком програмуfrDo White BalanceRégler la balance des blancsjaImage Format:画像フォーマット:heLED1 Frequencyתדר LED1daFile num:%dFil nummer:%ditLoad Profile at startCarica profilo all'avvioitAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Si è verificato un errore nell'aggiungere
+i controlli dell'estensione al driver UVC
+Assicurarsi di avviare guvcview da root (o sudo).ukstart newзапустити новийpt_BRUpCimazh_TWMPEG video 1MPEG video 1srStop AutoЗаустави аутоматскоplChroma AGCAutomatyczna kontrola kluczowaniaitdia size:   dim. dia:   frOnActivéukDevice:Пристрій:zh_TWInput Device:輸入設備:heHardware accelaration (enable(1) | disable(0))האצת חומרה (פעיל(1) | מנוטרל(0))zh_TWExposure, Auto曝光，自動glGain, AutomaticGanancia, AutomáticadaCamera Output:Kamera output:he Show הצגzh_TWFocus, Auto自動對焦nlChannels:Kanalen:heVideo capture time (in seconds)זמן לכידת וידאו (בשניות)pt_BRZoom, RelativeZoom, relativosrBacklight CompensationПоправка светла позадинеptAudioAudioplpre me:   pre me:   plPower Line FrequencyCzęstotliwość lini zasilaniahr- local options- lokalne opcijeja WahWah WahWaheuPlease reconnect your camera.Mesedez, kamera berriro konektatuukqblur:   qblur:   ptFrame size, default: 640x480Resolução, defeito: 640x480esShutter Priority ModeModo prioridad del obturadorpt Ducky PatinhoruWhite Balance, AutomaticБаланс белого, АвтоматическиruPlease try restarting your system.Следует попробовать перезапустить систему.srStop VideoЗаустави видеоdaUpOpitcodec valuesvalori dei codecptstart newcomeçar novofrMPEG4-AVC (H264)MPEG4-AVC (H264)ukPan, RelativeВідносний поворотplManual ModeTryb ręcznyplGuvcview error:
+
+Unable to start with minimum setupBłąd Guvcview:
+
+Nie można uruchomić minimalnej konfiguracjiitPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Formato dei pixel(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)ruPrints versionПоказывает версиюzh_TWGuvcview Video CaptureGuvcview Video CaptureplVertical CenterWyśrodkowanie pionowehrPlease report it to http://developer.berlios.de/bugs/?group_id=8179Molimo prijavite na http://developer.berlios.de/bugs/?group_id=8179glVideo Codec:Códec de vídeo:hrStop VideoZaustavi VideoesGuvcview error:
+
+Unable to open deviceError de Guvcview:
+
+No se pudo abrir el dispositivohrlaunch new process or restart?.
+
+upalite novi proces ili ponovno pokrenite?.
+
+csHue, AutomaticOdstín, AutomatickýjaGuvcview error:
+
+Unable to allocate BuffersGuvcview エラー:
+
+バッファを確保できませんruZoom, RelativeУвеличение, ОтносительноеuknewновийukMPEG video 1MPEG-відео 1zh_TWZoom, Relative變焦,相對的zh_TWManual Mode手動模式fr Pieces Morceauxzh_TWVideo File:影像檔名:csImage Format:Formát obrazu:ukDefaultsСкинутиbsGUVCViewer ControlsGUVCVjuer KontrolehrBlue BalanceRavnoteža PlaveglAudio Format:Formato do son:itPan (relative)Panoramica (relativa)zh_TWPrints version列印版本zh_TW2 - stereo2 - stereojaUp上nlCap. ImageAfbeelding vastleggenpt_BRAuto ModeModo automáticozh_TWShutter Priority Mode快門優先模式he- local options- אפשרויות מקומיותdaHueFarvetonefrDefaultsPar défautcsVertical CenterVertikální středptGuvcview:
+
+UVC Extension controlsGuvcview:
+
+Controlos UVC dinâmicosruPower Line FrequencyЧастота в электросетиdeYUY2 - uncomp YUVYUY2 - keine Komp. YUVsrDon't display a GUIНе приказује ГКСzh_TWUp上pt_BRFocus (Absolute)Foco (absoluto)zh_TWstart new馬上啟動pt_BRFLV1 - flash video 1FLV1 - vídeo flash 1hrExit after adding UVC extension controls (needs root/sudo)Izlaz nakon dodavanja UVC ekstenzivnih kontrola (potreban root/sudo)ru Invert Верт. отражениеjaNumber of Pictures to captureキャプチャする画像数daImage ControlsBilled kontrolleres2 - stereo2 - stereonlBrightnessHelderheidglFocusFocode Negative NegativheTilt, Resetנטייה, אפסukcmp:   cmp:   itme method:   metodo me:   jaVideo & Filesビデオ & ファイルglAudioSonhrGUVCViewer ControlsGUVCViewer Kontrolesr Ducky ПачеruMPEG4-AVC (H264)MPEG4-AVC (H264)ruMJPG - compressedMJPG - сжатыйglFocus, AutoFoco, Automáticode---- Video Filters -------- Videofilter ----srAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Дошло је до грешке приликом додавања контрола
+проширења УВЦ управљачком програму. Уверите се да
+сте покренули камерче као администратор (или судо).plStop AutoStop AutoukGammaГаммаplStop VideoStop VideoitAuto Focus (continuous)Messa a fuoco automatica (continua)esWhite Balance Temperature, AutoEquilibrio blanco, autocsGuvcview error:
+
+UVC Extension controlsChyba Guvcview
+
+Rozšířené ovládání UCVruFLV1 - flash video 1FLV1 - флэш-видео 1ruExposure Time, AbsoluteВремя выдержки, АбсолютноеjaSample Rate:サンプルレート:srSaturationЗасићеностsrPan (relative)Праћење (релативно)pt_BRCap. VideoCap. vídeoesVideo Device to use [default: /dev/video0]Dispositivo de video [pred: /dev/video0]ptAudio Format:Formato Audio:zh_TWPrivacy隱私zh_TWAudio API:音頻API:csShutter Priority ModeMód priority clonyzh_TWNumber of Pictures to capture圖片擷取數daGUVCViewer ControlsGUVCViewer kontrollerukNumber of Pictures to captureКількість знімківhe---- Audio Effects ------- אפקטים קוליים ---itControl Profiles:Profili di controllo:srWMV1 - win. med. video 7ВМВ1 — виндоуз медија видео 7zh_TWWhite Balance Blue Component白平衡藍元件ru                              encoder fps:   
+ (0 - use fps combobox value)                              кодек кадров/с.:   
+ (0 - использовать значение списка)de Sound AudioplExposure Time, AbsoluteAbsolutny czas ekspozycjiesPlease report it to http://developer.berlios.de/bugs/?group_id=8179Repórtelo a http://developer.berlios.de/bugs/?group_id=8179srExits guvcview after closing videoИзлази из камерице након затварања видеаfrZoom, AbsoluteZoom, AbsoluruDefaultsЗаводские установкиpt_BRSharpnessNitidezruLED1 ModeРежим светодиода1plMPEG4-AVC (H264)MPEG4-AVC (H264)ruMPEG4-ASPMPEG4-ASPuksubq:   subq:   zh_TWGUVCViewer ControlsGUVCViewer設定pt_BRMPEG video 1Vídeo MPEG 1pt_BRExposure, AutoExposição, autofrHueTeintecsPrints versionVypíše verzicsGUVCViewer ControlsOvládání GUVCViewerfrframerefs:   framerefs:   ruBlinkingМерцаниеhrDownDoljeruVideo & FilesВидео и файлыfrZoom, RelativeZoom, RelatifsrVideo & FilesВидео и датотекеnl Sound GeluidplImage Format:Format obrazuitBlinkingLampeggiantecsAuto ModeAuto. módukCapture method (1-mmap (default)  2-read)Метод захоплення (1-mmap (замовч.) 2-read)pt_BRFocus, RelativeFoco, relativoglFocus, AutomaticFoco, automáticopt_BRColor KillerRemovedor de corescsAudioZvukhr Ducky PatkafrGammaGammaeuVertical FlipIrauli bertikalkisrFLV1 - flash video 1ФЛВ1 — флеш видео 1deContrastKontrasthrHueNijansacsGammaGammazh_TWQuality:品質:zh_TWAudio Format:音頻格式:glSave FileGardar o ficheirozh_TW ReverbReverbsrOffИскљ.daSaturationFarvemætningbsGuvcview Video CaptureGUVCVju Snimanje video zapisaptAudio API:API de Audio:csGuvcview error:
+
+Unable to create Video ThreadChyba Guvcview:
+
+Nelze založit vlákno videaplWhite Balance Blue ComponentKomponent balansu bieli - niebieskiegozh_TWDown下esVideo File name (capture from start)Archivo video (captura del arranque)zh_TWqmin:   qmin:   ptAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Ocorreu um erro ao adicionar os controlos
+dinâmicos ao driver UVC
+Verifique se lançou guvcview como root (ou sudo).plsub cmp:   sub cmp:   heChannels:ערוצים:daBacklight CompensationBaglys kompensationzh_TWGuvcview error:
+
+Couldn't query device capabilitiesGuvcview錯誤:
+
+設備無法開啟itExposureEsposizionezh_TWRed Balance紅平衡csVideo Device to use [default: /dev/video0]Video zařízení [výchozí /dev/video0]itTilt, RelativeInclinazione relativaukFrame size, default: 640x480Розмір кадру (замовч. - 640x480)hrSave FileSpremi DatotekufrYUY2 - uncomp YUVYUY2 - YUV non compresséhePrivacyפרטיותsrsub cmp:   под цмп:   sr---- Video Filters ----———— Видео филтери ————daPlease try restarting your system.Prøv venligst at genstarte dit system.zh_TWGamma伽瑪值frImage capture interval in secondsInterval d'enr. des images (secondes)glContrastContrastesrTilt, RelativeНагибање, релативноuk Mirror Гор. віддзеркал.ukLeftЛівийhrHardware accelaration (enable(1) | disable(0))Hardversko ubrzanje (omoguči(1) | onemoguči(0))pl---- Audio Effects -------- Efekty audio ----zh_TWCapture method (1-mmap (default)  2-read)擷取方法(1-mmap (default)  2-read)esWhite Balance Red ComponentComponente Rojozh_TWZoom, Absolute變焦,絕對的ukGuvcview error:
+
+Unable to start with minimum setupПомилка:
+
+Не можу запуститись з мінімальною установкоюfrManual ModeMode Manuelptlaunch new process or restart?.
+
+lançar novo processo ou reiniciar?
+
+pt_BRFocus (absolute)Foco (absoluto)zh_TWLoad Profile at start在啟動時讀取專案ptExit after adding UVC extension controls (needs root/sudo)Sair após adicionar controlos dinâmicos ao driver UVC (necessita root/sudo)itFocus (Absolute)Messa a fuoco (assoluta)itExposure (Absolute)Esposizione (assoluta)srNot enough free space left on diskНема довољно слободног простора на дискуsrResolution:Резолуција:ruHorizontal CenterГоризонтальный центрhrUpGoreruPlease report it to http://developer.berlios.de/bugs/?group_id=8179Следует сообщить об этом сюда: http://developer.berlios.de/bugs/?group_id=8179ukWhite Balance, AutomaticАвто баланс білогоptPan/tilt ResetRot./Incl. (restaurar)zh_TWNumber of initial frames to skip跳過的初始影格數hrRightDesno:hrImage capture interval in secondsInterval slikanja u sekundamazh_TWcmp:   cmp:   zh_TWPower Line Frequency視訊頻率ukTilt, RelativeВідносний нахилuk Echo ЕхоheHueגווןheDownלמטהukHorizontal FlipГоризонтальне віддзеркаленняptVertical CenterEixo VerticalfrMake sure your device driver is v4l2 compliant
+and that it is properly installed.Vérifiez que vous avez un pilote compatible v4l2
+et qu'il est correctement installé.ukBlue BalanceБаланс синьогоruVideo capture time (in seconds)Продолжительность видео-записи (сек)hrSharpnessOštrinazh_TWBlue Balance藍平衡itGTK UVC video viewerGTK UVC visualizzatore videoukZoom, ContinuousБезперервний зумpt_BRframerefs:   framerefs:   srPULSEAUDIOПУЛСЕАУДИОsr Echo Ехоesqmin:   qmin:   plColor EffectsEfekty kolorówplGUVCViewer ControlsKontrolki GUVCViewerptGuvcview error:
+
+Unable to create Video ThreadGuvcview erro:
+
+Não foi possivel criar o Thread de Videopt_BRApplyAplicarcs Echo Zobrazitfrsub cmp:   sous cmp:   frAudioAudioukAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Виникла помилка в процесі додавання керуючих 
+елементів розширення до драйверу UVC.
+Переконайтесь що Guvcview запущено від імені root (чи sudo).plDevice:Urządzenie:ukZoom, RelativeВідносний зумzh_TWExposure Time, Absolute絕對曝光時間esFocus (Absolute)Enfoque (absoluto)ptCap. VideoCap. Videorustart newЗапуск новогоfrMPEG video 1MPEG video 1deShutter Priority ModeBlendenautomatik-ModusjaGuvcview error:
+
+Unable to create Video ThreadGuvcview エラー:
+
+ビデオスレッドを作成することができませんpt_BRLoad Profile at startCarrega perfil ao iniciarptWhite Balance Temperature, AutoBalanço de Brancos, AutofrAuto ModeMode AutoesLED1 FrequencyFrecuencia LED1plVideo & FilesWideo i plikicsStop AutoZastavit automatjaExposure (Absolute)Exposure (完全な)ruPan/tilt ResetГор./верт. возвратpt Sound Sompt_BR---- Video Filters -------- Filtros de vídeo ----sr Pieces КомадићиsrFocus (Absolute)Фокус (апсолутни)euRightEskuinacsFile,AutoSoubor, Autozh_TWGuvcview error:
+
+Can't set a valid video stream for guvcviewGuvcview 錯誤:
+
+不能為guvcview設置一個有效視訊串流值hrChannels:Kanali:rumb decision:   mb-decision:   ptHueTonalidadept_BRHorizontal CenterEixo horizontalfrsubq:   subq:   esSaturationSaturaciónhe Invert הפוךjaWhite Balance Component, Autoホワイトバランス成分、自動pt_BRBacklight CompensationCompensação de LuzsrLoad Profile at startУчитава профил приликом покретањаsrFrame Rate:Проток кадра:glQuality:Calidade:esCap. ImageCap. imagenptBacklight CompensationCompensação de LuzeuGuvcview error:
+
+Read method errorGucview errorea:
+
+Irakurketametodoaren erroreafr---- Video Filters -------- Filtres Vidéo ----zh_TWFocus, Relative對焦,相對的zh_TWGuvcview error:
+
+Unable to allocate BuffersGuvcview錯誤:
+
+設備無法開啟frcmp:   cmp:   frSaturationSaturationdeset FocusFokuspl---- Video Filters -------- Filtry wideo ----pt_BRFocusFocofrme method:   méthode me:   heVertical Centerמרכז אנכיcs---- Video Filters -------- Filtry videa ----deConfiguration fileKonfigurationsdateiglMS MP4 V3MS MP4 V3itStop VideoFerma il videocsWhite Balance Temperature, AutoVyvážení bílé, AutodeGuvcview error:
+
+Can't set a valid video stream for guvcviewGuvcview Fehler:
+
+Konnte weder video initialisierensrYUY2 - uncomp YUVЈУЈ2 — несажети ЈУВpt_BR Mirror Espelhopt_BRZoom, ContinuousZoom, contínuozh_TWBlack Level黑色等級glGuvcview error:
+
+Read method errorErro de Guvcview:
+
+Erro no método de lecturadaAuto ModeAuto tilstandzh_TWHardware accelaration (enable(1) | disable(0))硬體加速(啟用(1) | 停用(0))es Show Mostrarukpre cmp:   pre cmp:   esControl Profiles:Perfiles de control:srRaw bits per pixelСирових бита по тачциnlMS MP4 V3MS MP4 V3frExits guvcview after closing videoQuitte guvcview après avoir fermé la vidéoheCapture:לכד:fr Invert InverserjaExposure, Auto Priority露出、自動優先itgop size:   dim. gop:   srGUVCViewer ControlsКонтроле КамерицеdaWhite Balance Component, AutoHvid balance komponent, autonlBacklight CompensationachtergrondverlichtingscompensatieruAudio Format:Формат аудио:csDev. DefaultVýchozí zařízenífrConfiguration fileFichier de configurationfrCapture method (1-mmap (default)  2-read)Méthode de capture  (1-mmap (par défaut)  2-read)frControl Profiles:Profils de préférences :esPORTAUDIOPORTAUDIOpt_BRPan, RelativeDeslocamento, relativocsDownDolůptGuvcview error:
+
+Unable to allocate BuffersGuvcview erro:
+
+Não foi possivel alocar Bufferspt_BRDisplays debug informationMostra informação de depuraçãofrnewnouveauukAperture Priority ModeПріоритет діафрагмиcslaunch new process or restart?.
+
+Spustit nový proces nebo restartovat?.
+
+heImage File nameשם קובץ תמונהplColor KillerUsunięcie koloruukWhite Balance Blue ComponentСиній компонент балансу білогоruExposure, Auto PriorityРежим частоты кадровpt Particles ParticulasukWhite Balance TemperatureТемпература балансу білогоheDevice:התקן:itNot enough free space left on diskSpazio libero sul disco insufficienteitPORTAUDIOPORTAUDIOjaVideo Device to use [default: /dev/video0]使用するビデオデバイス [デフォルト: /dev/video0]ukCamera ControlsКерування камероюpt_BRTilt ResetRestaurar inclinaçãodeFocus, AutoFokus, AutomatischheVideo & Filesוידאו וקבציםheAudioשמעsrPlease try restarting your system.Молим покушајте поново да покренете систем.esShow FPS value (enable(1) | disable (0))Exhibir FPS (habilitar(1) | deshabilitar(0))esrestartRecomenzar aplicaciónruFile,Autoавтомат.itImage File:File immagine:itConfiguration fileFile di configurazioneptImage Format:Formato de Imagem:ptPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Formato entrada(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)zh_TW Mono灰階ukFocus, AutoАвто фокусruDisable video processingОтключение обработки видеоpt_BRWhite Balance TemperatureBalanço de branco temperaturaplAuto ExposureAutomatyczna ekspozycjaptFocus, AutomaticFoco, Automáticozh_TWVideo Codec:影像編碼:srVideo Codec:Видео кодек:srmax B frames:   највише Б оквира:   bsAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Greška se dogodila dok sam dodavao kontrolu
+dodataka na UVC drajver
+Morate pokrenuti GUVCVju kao korjen ili sudocsControl Profiles:Ovládací profily:deRightRechtspt_BRstart newiniciar novohecodec valuesערכי מקודדesAuto ModeModo automáticodeSaturationSättigungplSharpnessOstrośćitTilt (relative)Inclinazione (relativa)heLeftשמאלplGuvcview error:
+
+Unable to allocate BuffersBłąd Guvcview:
+
+Błąd alokacji buforówfr
+You have more than one video device installed.
+Do you want to try another one ?
+
+Vous avez plus d'un périphérique vidéo installé.
+Voulez-vous en essayer un autre ?
+frVertical CenterCentrer verticalementzh_TWLED1 ModeLED1模式pt_BRpre me:   pre me:   hecancelבטלptCapture method (1-mmap (default)  2-read)Método de Captura (1-mmap (padrão) 2 -read)plHorizontal FlipOdbicie poziomeheHorizontal Flipהיפוך אופקיfrRGB - uncomp BMPRVB - BMP non compresséplWMV1 - win. med. video 7WMV1 - win. med. video 7dePlease try restarting your system.Bitte System neu starten.ruVideo File:Файл видео:itTake Video by DefaultPrendi il video predefinitoruWhite Balance Red ComponentКрасный компонент баланса белогоdeImage capture interval in secondsBild aufnehmenabgelaufen (sekunden)plPan, ResetReset PansrCap. ImageСними сликуfrOffDésactivézh_TWCap. Image拍照ptPULSEAUDIOPULSEAUDIOzh_TWHorizontal Flip水平翻轉deResolution:Auflösung:nl2 - stereo2 - stereofrSample Rate:Taux d'échantillonage:frUpHautsrCamera ControlsКонтроле камереglDownAbaixoitExits guvcview after closing videoEsci da guvcview dopo aver chiuso il videozh_TWPlease report it to http://developer.berlios.de/bugs/?group_id=8179請回報到http://developer.berlios.de/bugs/?group_id=8179hrExtension controls were added to the UVC driverKontrole Ekstenzije su dodane UVC driveruesFrame Rate:FPS:hrGuvcview Video CaptureGuvcview Snimanje Videahr
+You have more than one video device installed.
+Do you want to try another one ?
+
+Imate više uređaja instalirano.
+Želite li isprobati ostale?
+frPORTAUDIOPORTAUDIOukAudio API:Аудіо API:nlPULSEAUDIOPULSEAUDIOjaPlease try restarting your system.システムを再起動してみてください。gl Particles PartículashePlease make sure the camera is connected
+and that the correct driver is installed.אנא וודא שהמצלמה מחוברת
+ושמנהל ההתקן הנכון מותקן.hrLeftLijevozh_TWproperties特性ja Reverb ReverbhrExposure, AutoIzloženost, AutomatskoruGuvcview error:
+
+Read method errorОшибка Guvcview:
+
+Ошибка метода чтенияplVertical FlipOdbicie pionowesr WahWah ВауВауcsAudio Format:Formát zvuku:zh_TWMPEG4-ASPMPEG4-ASPjaFile,Autoファイル,自動glLeftEsquerdafrWhite Balance TemperatureBalance des blancsitpropertiesproprietàukExposure, AutoАвто експозиціяja Mono モノクロhrPrints versionIsprintaj verzijuja1 - mono1 - モノラルesCamera Output:Salida de la cámara:srColor KillerУкидач бојеptPlease try restarting your system.Por favor experimente reiniciar o sistema.ruImage File:Файл снимка:csPan/tilt ResetReset záběruplDo White BalanceBalans bielics Mono MonoruWhite Balance Component, AutoКомпонент баланса белого, автоptVideo capture time (in seconds)Tempo de captura vídeo (em segundos)fr1 - mono1 - monofrExtension controls were added to the UVC driverLes contrôles de l'extension ont été ajoutés au pilote UVCukGuvcview:
+
+UVC Extension controlsGuvcview:
+
+Елементи керування розширенням UVCitSample Rate:Frequenza di campionamento:zh_TWPan, Absolute筆,絕對的jaDevice:デバイス:zh_TWFrame Rate:影格率srVideo capture time (in seconds)Време снимања видеа (у секундама)euMake sure your device driver is v4l2 compliant
+and that it is properly installed.Mesedez,egiaztatu v4I2 kontrolatzailea duzula
+eta instalatuta dagoela.csResolution:Rozlišení:plWhite Balance Temperature, AutoAutomatyczny balans bieli temperaturyheExposure, Autoחשיפה, אוטומטיescmp:   cmp:   ukBacklight CompensationКомпенсація підсвіткиesPlease try restarting your system.Pruebe a reiniciar su sistema.sr                              encoder fps:   
+ (0 - use fps combobox value)                              ф/с енкодера:   
+ (0 — користите вредност ф/с поља за бирање)pt_BRSample Rate:Taxa de amostragem:ruVideo Format:Формат видео:euHueÑabardurasrImage ControlsКонтроле сликеzh_TWGuvcview error:
+
+Read method errorGuvcview錯誤:
+
+設備無法開啟jaGammaガンマfrqmax:   qmax :   ruset FocusУстановка фокусаruLeftВлевоsrContrastКонтрастukLED1 ModeМетод світлодіодаpt_BRAudioÁudiocsChannels:Kanály:ptrestartReiniciarfr---- Audio Effects -------- Effets Audio ----itGuvcview error:
+
+Unable to create Video ThreadErrore di Guvcview:
+
+Impossibile creare un flusso videoheFocus, Absoluteמיקוד, מוחלטpt_BRExposure (Absolute)Exposição (absoluta)ukPan (relative)Відносний поворотitqcompress:   qcompress:   csAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Nastala chyba při přidání rozšířeného
+ovládání do ovladače UVC
+Ujistěte se, že spouštíte guvcview jako root (či sudo).espre dia size:   tamaño pre dia:   frGuvcview error:
+
+Unable to create Video ThreadErreur de Gubcview :
+
+Incapable de créer le flux vidéoesCapture method (1-mmap (default)  2-read)Método de captura (1-mmap (predeterminado) 2-read)frPower Line FrequencyFréquence de rafraîchissementjaBrightness輝度hr1 - mono1 - monoglGUVCViewer ControlsControles de GuvcviewerfrMJPG - compressedMJPG - compressésrDevice:Уређај:frSharpnessNettetépt_BRMS MP4 V3MS MP4 V3ru- local options- локальные параметрыglPlease report it to http://developer.berlios.de/bugs/?group_id=8179Por favor, informe do erro a http://developer.berlios.de/bugs/?group_id=8179ptVideo & FilesVideo e FicheiroshrGuvcview error:
+
+Can't set a valid video stream for guvcviewGuvcview grješka:
+
+Nije moguče postaviti vrijedeći video stream za guvcviewuk
+You have more than one video device installed.
+Do you want to try another one ?
+
+Встановлено більше одного відео пристрою.
+Ви хочете спробувати ще один?
+heFile num:%dקובץ מספר:%dja Ducky Duckypt_BRGuvcview error:
+
+Couldn't query device capabilitiesGuvcview erro:
+
+Não foi possível consultar as propriedades do dispositivofrLoad Profile at startCharger réglages personnalisésglExposureExposiciónfrChroma AGCChroma CAGesPan/tilt ResetRotación/Inclinación (reajuste)ukFocus (absolute)Абсолютний фокусzh_TWExit after adding UVC extension controls (needs root/sudo)在新增外掛控制後離開(需要使用root/sudo)pt_BRDev. DefaultPadrãosrApplyПримениzh_TWChannels:聲道:hrStop AutoZaustavi Automatskoitset Focusimposta la messa a fuocoitnum threads:   numero di thread:   nllaunch new process or restart?.
+
+nieuw proces starten of herstarten
+
+deAperture Priority ModeBlendenpriorität-Modusrume method:   me-method:   ukQuality:Якість:daVideo File:Video filer:plExposureEkspozycjapt_BRImage Format:Formato de imagem:glFrame size, default: 640x480Tamaño predeterminado do marco:640x480deExposure (Absolute)Belichtung (Absolut)zh_TWCamera Output:攝影機輸出:glFrame Rate:Taxa de fotogramas:heControl Profiles:פרופילי בקרה:ptTilt (relative)Inclinação (relativa)ruqmax:   qmax:   jaContrastコントラストesYUY2 - uncomp YUVYUY2 - s/comp YUVes Mirror EspejosrControl Profiles:Профили контрола:jaLoad Fileファイルを読込むjaPlease reconnect your camera.カメラを再接続してください。frPan ResetRotation Horizontale (remise à zero)ruImage File nameИмя файла изображенияesgop size:   tamaño gop:   daDownNedsrpre cmp:   пре цмп:   srGuvcview:
+
+UVC Extension controlsКамерица:
+
+Контроле УВЦ проширењаuk                              encoder fps:   
+ (0 - use fps combobox value)                              частота кадрів:   
+ (0 - використати значення з випадаючого списку)ja Mirror 鏡zh_TWgop size:   gop size:   jaStop Auto自動停止itVideo Format:Formato video:ru12 bit12 битplqmin:   qmin:   plaudio codec valueswartości kodeka audiocsDisplays debug informationZobrazí ladící informacesrPlease make sure the camera is connected
+and that the correct driver is installed.Проверите да ли је камера повезана и да ли
+је инсталиран исправан управљачки програм.ukpre dia size:   pre dia size:   itcancelannullafrPrivacyConfidentialitézh_TWImage File name圖片檔案名稱gl Echo EchoglApplyAplicarfrTake Video by DefaultCapturer une Vidéo par DéfautesZoom, ContinuousZoom, continuoheVertical Flipהיפוך אנכיnlrestartherstartendaContrastKontrastitGUVCViewer ControlsControlli di GuvcviewfrTilt ResetRotation Verticale (remise à zero)deSharpnessSchärfeukMPEG4-ASPMPEG4-ASPptMPEG4-ASPMPEG4-ASP (divx5)hrZoom, AbsolutePribližavanje, Apsolutnozh_TWVideo Format:影像格式:ptDon't display a GUINão mostrar GUIsrTilt (relative)Нагибање (релативно)pt_BRYUY2 - uncomp YUVYUY2 - sem compressão YUVfrLED1 ModeMode DEL1ukGuvcview error:
+
+Unable to open deviceПомилка:
+
+Не можу відкрити пристрійda Mirror SpejlheWhite Balance Blue Componentרכיב איזון הלבן הכחולjastart new新しく開始するptSaturationSaturaçãopt_BRWhite Balance Component, AutoComponente de cor, autojaImage capture interval in seconds秒単位の画像キャプチャ間隔zh_TWGain, Automatic自動增益rucancelОтменаcsColor KillerOdstranění barvysrAudioАудиоukHueВідтінокesGUVCViewer ControlsControles de GUVCVieweresGuvcview error:
+
+Couldn't query device capabilitiesGuvcview error:
+
+No se pudo abrir el dispositivozh_TWPan, Reset筆,重設ptQuality:Qualidade:deVideo File name (capture from start)Datei video (anfangaufnehmen)frAudio Format:Format Audio:esColor EffectsEfectos de colorru Fuzz Фузpt_BRGuvcview error:
+
+Read method errorErro do Guvcview:
+
+Erro do método de leituraukMake sure your device driver is v4l2 compliant
+and that it is properly installed.Переконайтесь, що драйвер сумісний з v4l2
+і встановлений правильно.plZoom, ContinuousZoom ciągłyplAperture Priority ModePriorytet przysłonyhePULSEAUDIOPULSEAUDIOrudia size:   dia-size:   euExtension controls were added to the UVC driverLuzapen kontrolak UVC kontroladoreari gehitu zaizkiosrGuvcview error:
+
+Can't set a valid video stream for guvcviewГрешка Камерице:
+
+Не могу да подесим исправан видео ток за камерчеpl Invert OdwrócenieeuGuvcview error:
+
+UVC Extension controlsGucview errorea:
+
+UVC luzapenaren kontrolakukStop VideoЗупинитиfrGuvcview error:
+
+Couldn't query device capabilitiesErreur de Guvcview:
+
+Incapable d'accéder au périphériquedaDevice:Input udstyr:pt_BR Negative NegativoglExposure (Absolute)Exposición (absoluto)zh_TWVideo capture time (in seconds)影像擷取時間(秒數)plDownDółpt Show Mostrares- local options- opciones localessrGuvcview error:
+
+Unable to create Video ThreadГрешка Камерице:
+
+Не могу да направим видео нитplGain, AutomaticAutomatyczna ziarnistośćpt_BRTilt, RelativeInclinação, relativoplAudioAudiohr Sound Zvukzh_TWExtension controls were added to the UVC driver外掛控制已經被新增到UVC驅動程式中esGuvcview error:
+
+Can't set a valid video stream for guvcviewGuvcview error:
+
+Incapaz de establecer video streamsrAutoСамосталноukAudio Format:Формат аудіо:ptMPG2 - MPG2 formatMPG2 - Mpeg video 2it Reverb RiverberoesFile,AutoArchivo,AutoesImage File nameArchivo de ImagenplHorizontal CenterWyśrodkowanie poziomezh_TWAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).當新增外掛時有一個錯誤發生
+控制UVC驅動程式
+確定你是使用root(或sudo)來執行guvcviewcsManual ModeRuční módnl WahWah WahWahplLeftLewypt_BRCamera Output:Saída de câmera:it Mono MonocromaticoukMPEG4-AVC (H264)MPEG4-AVC (H264)pt_BRcmp:   cmp:   hrCapture:Snimi:ja Show 表示uk Show ПоказатиhrInput Device:Ulazni uređaj:zh_TW Show顯示frAuto Focus (continuous)Mise au Point (continu)jaWhite Balance Temperatureホワイトバランス温度srPrints versionШтампа издањеeuGuvcview Warning:Gucview oharra:plMake sure your device driver is v4l2 compliant
+and that it is properly installed.Upewnij się, że twoje urządzenie jest kompatybilne z v4l2
+i jest poprawnie zainstalowane.srFocus, AutomaticФокус, аутоматскиukGainПосиленняdelaunch new process or restart?.
+
+Neuer prozess oder programm neustarten?
+
+deMJPG - compressedMJPG - komprimiertesLED1 ModeModo LED1itFocus, AutoMessa a fuoco automaticafrInput Device:Périphérique d'Entrée:sr Mirror Огледалоukcodec valuesзначення кодекаptSave FileGravar FicheiroptMPEG video 1MPEG video 1itRightDestrajaCamera Output:カメラ出力:itAuto ModeModalità automaticazh_TWFocus (absolute)對焦(絕對值)itFile,AutoNumerazione automatica dei fileptMJPG - compressedMJPG - c/comp.frAperture Priority ModeMode Priorité OuvertureukPlease report it to http://developer.berlios.de/bugs/?group_id=8179Будь ласка, повідомте про це тут http://developer.berlios.de/bugs/?group_id=8179ruUpВверхglPrivacyPrivacidadenlstart newstart nieuwzh_TWpre dia size:   pre dia size:   ptGuvcview error:
+
+Read method errorGuvcview erro:
+
+Erro do metodo ReadsrExposure, Auto PriorityИзлагање, приоритет аутоматскогcsHorizontal FlipHorizontální překlopeníhrGammaGamafrGuvcview error:
+
+Can't set a valid video stream for guvcviewErreur de Gubcview :
+
+Incapable de gérer le flux vidéoesRightDerechaeuGuvcview error:
+
+Unable to start with minimum setupGucview errorea:
+
+Ezin izan da konfigurazio minimoarekin abiaraziptTake Picture by DefaultImagem por DefeitoitRaw bits per pixelRaw bit per pixelit Particles Particellept_BRShow FPS value (enable(1) | disable (0))Apresentar o valor FPS (habilitado(1) | desabilitado(0))plRed BalanceBalans czerwienisrImage capture interval in secondsИнтервал снимања слике у секундамаitWMV1 - win. med. video 7WMV1 - win. med. video 7daAuto Focus (continuous)Auto fokus (fortsat)ruGuvcview error:
+
+UVC Extension controlsОшибка Guvcview:
+Управление UVC расширениямиjaBacklight Compensationバックライト補正esHardware accelaration (enable(1) | disable(0))Accel. del hardware (habilitar(1)|deshabil.(0))zh_TWpre me:   pre me:   escodec valuesvalores de códecsdaPlease report it to http://developer.berlios.de/bugs/?group_id=8179Rapporter det venligst til http://developer.berlios.de/bugs/?group_id=8179zh_TWCamera Controls攝影機設定plGuvcview Video CapturePrzechwytywanie wideo Guvcviewpt_BRUser ControlsControles do usuáriofrFocusMise au pointukmax B frames:   max B frames:   zh_TWFrame size, default: 640x480影格尺寸,預設值:640x480esDo White BalanceHacer balance de blancosptLeftEsquerdadaRaw bits per pixelRå bits pr. pixelruHorizontal FlipОтразить по горизонталиpldia size:   rozmiar dia:   jaLED1 FrequencyLED1 回数esInput Device:Dispositivo de entrada:pt_BRsubq:   subq:   csApplyPoužítsrCap. VideoСними видеоplUser ControlsKontrolki użytkownikaukExposure Time, AbsoluteАбсолютний час експозиціїruExtension controls were added to the UVC driverУправления расширениями был длбавлен к драйверу UVCnl Echo EchosrAudio Format:Формат звука:ukLoad Profile at startЗавантажити профіль при запускуnlGammaGammazh_TWCap. Video錄影jaset Focusフォーカスを設定するesAperture Priority ModeModo prioridad de la aberturaesset FocusFocarglImage Format:Formato da imaxe:ukMS MP4 V3MS MP4 V3plFocusOstrośćjaSaturation彩度hr2 - stereo2 - stereopt_BRDevice:Dispositivo:itGuvcview error:
+
+Read method errorErrore di Guvcview:
+
+Errore del metodo di letturanlUpOmhoogfr Show AfficherptImage ControlsControlos de imagemdaAudio Format:Lyd format:frGuvcview error:
+
+Unable to open deviceErreur de Guvcview :
+
+Incapable d'accéder au périphériquept_BRVideo capture time (in seconds)Tempo de captura de vídeo (em segundos)trGammaKontras derecesi (gama)frZoom, ContinuousZoom, Continuglcmp:   cmp:   ja---- Video Filters -------- ビデオフィルタ ----plShutter Priority ModePriorytet migwakiptDefaultsDefeitoukDisable video processingВідключити обробку відеоit Echo EcoptStop VideoParar VideodeHueFarberuSample Rate:Частота дискретизации:heMake sure your device driver is v4l2 compliant
+and that it is properly installed.וודא שמנהל ההתקן שלך תואם v4l2
+ושהוא מותקן כהלכה.pt_BRDownBaixozh_TW1 - mono1 - monozh_TWmax. qdiff:   max. qdiff:   ukLoad FileЗавантаження файлуuklast predictor count:   значення лічильника прогнозиста:   deVideo File:Video Datei:ptExposure Time, AbsoluteTempo de Exposição, AbsolutoglFocus, RelativeFoco, relativonlnewnieuwplPlease reconnect your camera.Ponownie podłącz kamerę.zh_TWContrast對比frDon't stream video (image controls only)Ne pas activer le flux vidéo (seulement contrôle d'image)jaShutter Priority Modeシャッター優先モードfrUser ControlsRaccourcis claviershePrints versionמדפיס גרסהitLED1 ModeModalità LED1plExposure, Auto PriorityAuto priorytet ekspozycjiitTilt, ResetRipristina l'inclinazionesrSample Rate:Проток узорка:ukPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Формат пікселю(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)ptOnLigadofrSave FileEnregistrer le FichierukWhite Balance Temperature, AutoАвто температура балансу білогоplMS MP4 V3MS MP4 V3frPlease make sure the camera is connected
+and that the correct driver is installed.Svp, assurez-vous que le périphérique est connecté
+et que le pilote est installé.deRGB - uncomp BMPRGB - keine Komp. BMPsrExposureИзлагањеsrDev. DefaultОсновни са уређајаsr Particles ЧестицеruYUY2 - uncomp YUVYUY2 - несжатый YUVitCap. VideoRegistra videohe Echo הדeuPlease make sure the camera is connected
+and that the correct driver is installed.Ziurtatu kamera konektatua
+eta driver-a instalatuta dagoelaptRGB - uncomp BMPRGB - s/comp BMPptUpSubiresHueMatizitnewnuovoukWhite Balance Component, AutoАвто компонент балансу білогоptHorizontal FlipRotação Horizontalhr Fuzz MutnoglGuvcview error:
+
+Unable to open deviceErro de Guvcview:
+
+Non foi posíbel conectar a camaraitMPEG4-AVC (H264)MPEG4-AVC (H264)rurestartперезагрузитьglgop size:   Tamaño do gop:   nlPlease reconnect your camera.Sluit uw camera opnieuw aan a.u.b.deGuvcview error:
+
+Unable to start with minimum setupGuvcview Fehler:
+
+Konnte nicht im minimalen Modus startenheTilt Resetאיפוס הטייהpt_BRExposure Time, AbsoluteTempo de exposição, absolutozh_TWFocus, Absolute對焦,絕對的zh_TWlast predictor count:   last predictor count:   heAuto Focus (continuous)מיקוד אוטומטי (מתמשך)zh_TWnew新增plSave FileZapisz PlikheVideo File:קובץ וידאו:plGainWzmocnienieglDefaultsValores predeterminadoshrHorizontal CenterVodoravno CentrirajptFocus, AbsoluteFoco, AbsolutocsPlease reconnect your camera.Prosím připojte znovu kameru.itmax B frames:   numero massimo di immagini B:   zh_TWImage capture interval in seconds圖片擷取間隔秒數pt_BR Show MostraresFocus (absolute)Foco (absoluto)plFile,AutoPlik,AutosrPan/tilt ResetПоновно праћење/нагибањеsrpropertiesсвојстваdeGuvcview error:
+
+Unable to create Video ThreadGuvcview Fehler:
+
+Der Video-Thread konnte nicht erzeugt werdenhrFocus, AutoFokusiranje, Automatskozh_TW---- Audio Effects -------音頻效果---itframerefs:   framerefs:   srExposure Time, AbsoluteВреме излагања, апсолутноruLoad Profile at startЗагрузка профиля при запускеptPrints versionMostra versãopt_BR8 bit8 bitit Invert Invertipt---- Video Filters -------- Filtros de Video ----ruSharpnessРезкостьpt_BRmb decision:   decisão mb:   zh_TWGuvcview error:
+
+Unable to open deviceGuvcview 錯誤:
+
+設備無法開啟nlExposure, AutoBelichting, AutofrMS MP4 V3MP4 - MS Mpeg 4 V3itLED1 FrequencyFrequenza LED1ptLED1 ModeModo LED1esCamera ControlsControles de cámarafrpre me:   pre me:   jaShow FPS value (enable(1) | disable (0))FPS 値の表示 (有効(1) | 無効 (0))ptSample Rate:Frequência:ukShutter Priority ModeПріоритет затворуukExtension controls were added to the UVC driverКеруючі елементи розширення були додані до драйверу UVCruBlack LevelУровень чёрногоpt_BR
+You have more than one video device installed.
+Do you want to try another one ?
+
+Foram detectados múltiplos dispositivos de vídeo.
+Quer tentar outro?
+itContrastContrastohrQuality:Kvaliteta:janew新規hrGuvcview error:
+
+Unable to start with minimum setupGuvcview error:
+
+Nije moguče pokretanje s minimalnim postavkamadeLeftLinkscsVideo File name (capture from start)Jméno Video souboru (záznam od začátku)it Show VisualizzacsCap. ImageZazn. ObrazsrManual ModeРучноplsubq:   subq:   ukBrightnessЯскравістьplImage File:Plik obrazu:srFocus, RelativeФокус, релативниdeDisable video processingDeaktiviere VideoverarbeitunghePlease try mmap instead (--capture_method=1).נסה את mmap במקום (--capture_method=1).pt_BRSaturationSaturaçãonlStop AutoStop Autoitstart newinizia nuovopt_BRGuvcview error:
+
+Unable to create Video ThreadErro de Guvcview:
+
+Não foi possível criar o thread de vídeoitMS MP4 V3MS MP4 V3es Invert Invertidopt_BR- local options- opções locaisrupre cmp:   pre-cmp:   frPlease report it to http://developer.berlios.de/bugs/?group_id=8179Veuillez le reporter à http://developer.berlios.de/bugs/?group_id=8179deControl Profiles:Kontrollen:euWhite Balance, AutomaticZuri-balantzea,automatikoaesBlack LevelNivel de negrosruCapture:Захват:plpre cmp:   pre cmp:   zh_TWmb decision:   mb decision:   ruPrivacyКонфиденциальностьptGuvcview error:
+
+Couldn't query device capabilitiesGuvcview erro:
+
+Não foi possível  verificar propriedades do dispositivo de vídeoda---- Video Filters -------- Video filtre ----ruCap. ImageСделать снимокfrWhite Balance Temperature, AutoBalance des blancs, AutocsMake sure the device driver supports v4l2.Ujistěte se, že ovladač zařízení podporuje v4l2.itChannels:Canali:ukVideo File name (capture from start)Файл відео (запис зразу після запуску)ukTilt (relative)Відносний нахилglStop VideoDeter vídeoesnewnuevosrDisplays debug informationПриказује информацијe о исправљању грешакаhe Sound קולeuControl Profiles:Kontrol-Profilak:plSample Rate:Próbkowanie audio:plGuvcview error:
+
+Couldn't query device capabilitiesBłąd Guvcview:
+
+Nie można pobrać listy kompatybilnych urządzeńfrPlease reconnect your camera.Veuillez rebrancher votre périphérique.plChannels:Kanały:rumax. qdiff:   макс. qdiff:   srWhite Balance, AutomaticРавнотежа белог, аутоматскиukPrints versionПоказує версіюit Mirror SpecchioptTilt ResetInclinação (restaurar)csUpNahoruzh_TWPlease try mmap instead (--capture_method=1).請試試mmap而不是(--capture_method=1).jaLeft左hr Pieces Komadićiit Pieces PezzieuGuvcview error:
+
+Unable to allocate BuffersGucview errorea:
+
+Ezin izan dira bufferrak esleituheGuvcview error:
+
+Unable to create Video Threadשגיאה בGuvcview:
+
+לא יכול ליצור שרשור וידאוplDisplays debug informationWyświetlanie informacji debugowaniarubit rate:   Битрейт:   heLoad Profile at startטען פרופיל בהפעלהruGuvcview error:
+
+Unable to create Video ThreadОшибка Guvcview:
+
+Не удалось создать поток команд для видеоfrColor KillerTueur de couleurruGuvcview error:
+
+Unable to start with minimum setupОшибка Guvcview:
+
+Не удался запуск с минимальной начальной установкойru Pieces МозаикаesGuvcview:
+
+UVC Extension controlsGuvcview:
+
+Controles de la extensión UVCcsHueOdstínukHardware accelaration (enable(1) | disable(0))Апаратне прискорення (увімкн.(1) | вимкн.(0))hrFocus, AutomaticFokusiranje, Automatskoitaudio codec valuesvalori del codec audiogl Fuzz DifusoitHardware accelaration (enable(1) | disable(0))Accelerazione hardware (abilita(1) | disabilita(0))hePower Line Frequencyתדר חשמלesZoom, RelativeZoom, relativoglHorizontal FlipXiro horizontaldeFile num:%dDateinummer:%dcsWhite Balance TemperatureVyvážení bíléukImage File:Файл знімку:frStop VideoArrêter la vidéoptLoad Profile at startCarrega perfil no arranqueptNumber of initial frames to skipNumero Inicial de Frames a IgnorarptVideo File:Ficheiro de Video:csVideo Codec:Kodek videa:ukImage ControlsКерування
+зображеннямesGuvcview Warning:Aviso de Guvcview:uk Fuzz ПухtrChannels:Kanallar:de Mirror GespiegeltitMake sure your device driver is v4l2 compliant
+and that it is properly installed.Assicurarsi che il driver del dispositivo sia
+v4l2 compatibile e che sia correttamente installato.ruContrastКонтрастностьheGuvcview error:
+
+Unable to start with minimum setupשגיאה בGuvcview:
+
+לא ניתן להתחיל עם התקנה מינימאליתsr Negative НегативglGuvcview error:
+
+Couldn't query device capabilitiesErro de Guvcview:
+
+Non se poideron consultar as capacidades do dispositivoru Sound ЗвукukContrastКонтрастhr Negative Negativhr Echo Jekaplpre dia size:   rozmiar pre dia:   glBlack LevelNivel de negropt_BRFile,AutoArquivo,AutoptFocus, AutoFocagem, AutotrImage File:Resim Dosyası:pt_BR Show VU meter Mostrar Volumejacancelキャンセルzh_TWrestart重新啟動jaDown下hrcancelodustanipt_BRAuto Focus (continuous)Focagem automática (contínua)daLeftVenstrefrLED1 FrequencyFréquence DEL1trVideo & FilesVideo & DosyalarfrFile,AutoFichier, AutoesExtension controls were added to the UVC driverLos controles de extensión se añadieron al controlador de UVCglFocus (Absolute)Foco(absoluto)pt_BRPrints versionExibe a versãocsCap. VideoZazn. VideoheLoad Fileטען קובץukImage capture interval in secondsІнтервал між знімками (сек.)heGammaגאמהpt_BRHue, AutomaticMatiz, AutomáticodeVideo capture time (in seconds)Videodauer  (sekunden)csExposure (Absolute)Expozice (Absolutní)daFrame Rate:Billedrate:frPlease try mmap instead (--capture_method=1).Veuillez essayer mmap (--capture_method=1) à la place.euLoad Profile at startProfila kargatu hasteanruManual ModeРучной режимit8 bit8 bitesGuvcview error:
+
+UVC Extension controlsError de Guvcview:
+
+Controles de extensión UVCpt_BRVideo File:Arquivo de vídeo:jaCapture:キャプチャ:srBrightnessОсветљеностesExposure, Auto PriorityExposición, Prioridad AutoesNot enough free space left on diskNo hay suficiente espacio libre en discojaFrame size, default: 640x480フレームサイズ、デフォルト: 640x480csBrightnessJasesWhite Balance Blue ComponentComponente Azuldaset Focussæt fokusukWhite Balance Red ComponentЧервоний компонент балансу білогоplBlack LevelPoziom czernisrPlease reconnect your camera.Молим поново повежите вашу камеру.pt_BRPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Formato de pixel(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)itHorizontal CenterCentra orizzontalmentecsImage ControlsOvládání obrazůnlLoad FileBestand OpenenukPORTAUDIOPORTAUDIOruZoom, AbsoluteУвеличение, СовершенноеcsGuvcview error:
+
+Read method errorChyba guvcview:
+
+Chyba metody čteníru---- Audio Effects -------- Аудио-эффекты ----itDisable video processingDisabilita l'elaborazione videofr Reverb ReverbruHue, AutomaticОттенок, АвтоматическиesVideo & FilesVideo e Archivoshe2 - stereo2 - סטריאוruOffОткл.ukAuto ExposureАвто експозиціяpt_BRme method:   método me:   cs Show Zobrazitukgop size:   gop size:   itSaturationSaturazioneptMS MP4 V3MP4 - MS Mpeg 4 V3srBlue BalanceРавнотежа плавогfrWhite Balance Blue ComponentBalance des Blancs, Canal Bleupt_BRlast predictor count:   última contagem preditor:   itShow FPS value (enable(1) | disable (0))Mostra il valore degli FPS (abilita(1) | disabilita (0))sr---- Audio Effects ----———— Аудио ефекти ————hrNumber of initial frames to skipBroj preskočenih početnih slikaptCapture:Captura:frVertical FlipMiroir verticalzh_TWTilt, Relative傾斜,相對的daYUY2 - uncomp YUVYUY2 - ukomprimeret YUVitBlue BalanceBilanciamento del bluitVertical CenterCentra verticalmentehrGuvcview error:
+
+Unable to open deviceGuvcview grješka:
+
+Nije moguče pokrenuti uređajpl Sound DźwiękitWhite Balance Red ComponentBilanciamento del bianco, canale rossocsExposure, Auto PriorityExpozice Auto. proritasrmb decision:   мб одлука:   jaYUY2 - uncomp YUVYUY2 - 非圧縮 YUVukExits guvcview after closing videoВийти з Guvcview після закриття відеоfrGUVCViewer ControlsRéglages GUVCVieweresFocus, AutomaticEnfoque, automáticoruFocus (absolute)Фокус (абсолютный)zh_TWDevice:設備:esGuvcview error:
+
+Unable to create Video ThreadError de Guvcview:
+
+No se pudo crear hilo de vídeoukqmax:   qmax:   plTilt, RelativePrzechylenie względneplqblur:   qblur:   ruFocus, AutomaticФокус, АвтоматическийptGuvcview Warning:Alerta do Guvcview:ptShow FPS value (enable(1) | disable (0))Apresentar FPS (sim(1) | não(0))pt_BROnLigadoesMS MP4 V3MS MP4 V3ukqmin:   qmin:   pt_BRMJPG - compressedMJPG - com compressãofrVideo Codec:Codec Video:srPan, AbsoluteПраћење, апсолутноesqmax:   qmáx:   daMJPG - compressedMJPG - komprimeretesFocus, RelativeEnfoque, relativohrGainDobiteuGainIrabaziaruHueОттенокheImage File:קובץ תמונה:deGuvcview error:
+
+Unable to open deviceGuvcview Fehler:
+
+Das Gerät konnte nicht geöffnet werdenzh_TW                              encoder fps:   
+ (0 - use fps combobox value)                              encoder fps:   
+ (0 - use fps combobox value)ruImage Format:Формат снимка:uk Ducky Голубкаpt_BRPan (relative)Deslocamento (relativo)zh_TWGuvcview error:
+
+Unable to create Video ThreadGuvcview錯誤:
+
+設備無法開啟foGuvcview error:
+
+Unable to open deviceGuvcview villa:
+
+Kundi ikki lata tóleind uppjaInput Device:入力デバイス:csImage File nameNázev souboru orazuhrSaturationZasićenjezh_TWFile,Auto檔案,自動srAudio API:Аудио АПИ:deImage File nameBilddateipt Invert Invertidozh_TWControl Profiles:控制項目:itCapture method (1-mmap (default)  2-read)Metodo di registrazione (1-mmap (predefinito)  2-read)csLeftVlevoitOnAccesouk Negative НегативptGuvcview error:
+
+Unable to start with minimum setupGuvcview erro:
+
+Não foi possivel iniciar com as definições minimascs WahWah WahWaheuUpGoradecancelAbbrechendaGuvcview error:
+
+Unable to open deviceGuvcview fejl:
+
+Kunne ikke åbne udstyrsr Show VU meter Прикажи ВУ метарru Echo Эхоpt_BRLED1 ModeModo LED1plZoom, AbsoluteAbsolutny zoomglCap. ImageCap. ImaxeptFocus (Absolute)Foco (Absoluto)ukPlease try restarting your system.Будь ласка, спробуйте перезавантажити систему.euBrightnessDistiradeSave FileDatei speichernptnewnovopt_BRImage ControlsControles de imagemhrVideo Device to use [default: /dev/video0]Video uređaj rabljen [zadani: /dev/video0]ruShutter Priority ModeРежим приоритета затвораsrVertical CenterУсправно центрирањеukpre me:   pre me:   zh_TWPan/tilt ResetPan/Tilt重設nlMPEG video 1MPEG video 1srSave FileСачувајте датотекуjaPan/tilt Resetパン/チルト リセットptDevice:Dispositivo de video:rusub cmp:   sub-cmp:   pt_BRConfiguration fileArquivo de configuraçãodeCapture:Aufnahme:esNumber of Pictures to captureNúmero de imagens a capturarnl---- Audio Effects -------- Audio Effecten ----jaChannels:チャンネル:ptGuvcview Video CaptureGuvcview Captura de VideonlWMV1 - win. med. video 7WMV1 - win. med. video 7ruControl Profiles:Профиль регулировки:ruqcompress:   qcompress:   frVideo & FilesVideo et Fichierszh_TWMake sure your device driver is v4l2 compliant
+and that it is properly installed.請確定您的設備驅動程式符合v4l2標準
+且它已被正確安裝。ptExposure, Auto PriorityExposição, Prioridade Autoda Show Visja Fuzz FuzzhrBrightnessOsvjetljenjeukFrame Rate:Частота кадрів:plApplyZastosujsrFocus, AbsoluteФокус, апсолутниitMJPG - compressedMJPG - compressoesGuvcview Video CaptureCaptura de vídeo GuvcviewcsStop VideoZastavit VideoitHueColoreitPlease reconnect your camera.Riconnettere la webcam.tr---- Video Filters -------- Video Filtreleri----it Negative NegativoglPrints versionMostrar a versiónukGuvcview error:
+
+UVC Extension controlsПомилка:
+
+Керуючі елементи UVCit                              encoder fps:   
+ (0 - use fps combobox value)                              encoder fps:   
+ (0 - usare il valore fps della combobox)itYUY2 - uncomp YUVYUY2 - YUV non compressoukMPG2 - MPG2 formatMPG2 - формат MPG2hr Reverb Odjekpt_BRFrame size, default: 640x480Tamanho do quadro, padrão: 640x480ruFocus, AutoФокус, автоpt_BRExit after adding UVC extension controls (needs root/sudo)Sair após adicionar extensão de controles UVC (precisa de root/sudo)hrMPEG video 1MPEG video 1csExtension controls were added to the UVC driverRozšířené ovládání bylo přidáno do UVC ovladačeheWhite Balance Red Componentרכיב איזון הלבן האדוםfrlaunch new process or restart?.
+
+nouveau processus ou redémarrage?
+
+esstart newComenzar nuevozh_TWExits guvcview after closing video在關掉影像後離開guvcviewheFocus, Relativeמיקוד, יחסיpt_BRDisable video processingParar processamento de vídeoitPan, AbsolutePanoramica assolutaukExit after adding UVC extension controls (needs root/sudo)Вийти після додавання керуючих елементів розширення UVC
+(потрібні права адміністратора)ruPlease reconnect your camera.Пожалуйста, переподключите камеру.cs Negative NegativptDisable video processingParar proc. video (Raw)frWhite Balance Red ComponentBalance des Blancs, Canal RougefrVideo File:Fichier Video:pt_BRPORTAUDIOPORTAUDIOzh_TWFile num:%d命名起始值:%dheShutter Priority Modeמצב עדיפות צמצםzh_TWHue色調esExit after adding UVC extension controls (needs root/sudo)Salir después de añadir los controles de extensión UVC (requiere root/sudo)pt_BRTake Picture by DefaultImagem por DefeitoesImage capture interval in secondsIntervalo de captura Imagen en segundosplFocus, AutoOstrość, AutoitUser ControlsControlli dell'utenteukUser ControlsКеруючі елементи користувачаcsVertical FlipVertikální překlopenífrBlack LevelNiveau de noirptStop AutoParar Auto:zh_TWpre cmp:   pre cmp:   esMPEG video 1MPEG video 1bsGuvcview:
+
+UVC Extension controlsGUVCVju:
+
+UVC Kontrola dodatakacsGuvcview error:
+
+Unable to open deviceChybaGuvcview:
+
+Nelze otevřít zařízenípt_BRPan, ResetDeslocamento, restaurarpt_BRVertical FlipVirar verticalmentehr---- Audio Effects -------- Audio Efekti ----glbit rate:   Taxa de bits:   itZoom, RelativeZoom relativosrGuvcview error:
+
+Couldn't query device capabilitiesГрешка Камерице:
+
+Не могу да испитам могућности уређајаcsAuto Focus (continuous)Automatické ostření (pozvolné)zh_TWbit rate:   bit rate:   ptWhite Balance Component, AutoComponente de cor, AutobsGuvcview error:
+
+Unable to open deviceGUVCVju greška:
+
+Nije moguće otvoriti uređajglTilt, RelativeInclinación, relativopt_BRWhite Balance Temperature, AutoBalanço de branco, autoukmax. qdiff:   макс. qdiff:   plQuality:Jakość:fr Ducky CanardruQuality:Качество:esAudio Format:Formato de Audio:runewНовыйruWhite Balance Blue ComponentСиний компонент баланса белогоsrWhite Balance Red ComponentЦрвени састојак равнотеже белогfrPan, RelativePanoramique, Relatifsrset Focusподеси фокусfrGuvcview Warning:Avertissement Guvcview :srImage File:Датотека слике:ukControl Profiles:Керування профілями:heVideo Format:פורמט וידאו:deCamera Output:Kamera-BIld:plWhite Balance Red ComponentKomponent balansu bieli - czerwonegoheGain, Automaticמרווח, אוטומטיgl Invert InverteritFocusMessa a fuocozh_TWExposure (Absolute)曝光（絕對）ptVideo File name (capture from start)Ficheiro de vídeo (captura no arranque)plFocus, AutomaticAutomatyczna ostrośćplImage ControlsKontrola obrazuit Sound Suonosrme method:   ме начин:   uksub cmp:   sub cmp:   ruBacklight CompensationКомпенсация ярких участковeu- local options-aukera lokalakes Ducky Patopt_BRExposure, Auto PriorityExposição, prioridade autocsCamera Output:Výstup kamery:srNumber of Pictures to captureБрој слика за снимањеhrVertical CenterOkomito CentrirajukTilt, ResetСкинути нахилesZoom, AbsoluteZoom, absolutojaWhite Balance Temperature, Autoホワイトバランス温度、自動pt_BRrestartreiniciarde2 - stereo2 - StereodaResolution:Opløsning:heAuto Exposureחשיפה אוטומטיתpt_BRAperture Priority ModeModo prioridade da aberturaruImage ControlsРегулировка изображенияzh_TWWhite Balance Component, Auto白平衡元件,自動pt_BRPlease try mmap instead (--capture_method=1).Por favor, tente o mmap no lugar (--capture_method=1)esContrastContrastehrAuto ExposureAutomatska Izloženostpt_BR                              encoder fps:   
+ (0 - use fps combobox value)                              codificador fps:   
+ (0 - use o valor fps da caixa de marcação)ukmb decision:   mb decision:   da1 - mono1 - monofrqblur:   qblur:   hrDefaultsZadanoplGuvcview error:
+
+Unable to open deviceBłąd Guvcview:
+
+Nie można otworzyć urządzeniajaGainゲインdeChannels:Kanäle:uklaunch new process or restart?.
+
+запустити новий процес, 
+чи перезавантажити?
+
+euNumber of Pictures to captureKapturatu beharreko argazki kopuruadaImage File nameBilledfil navnpt_BRTilt (relative)Inclinação (relativo)pt_BRVideo Format:Formato de vídeo:ptCamera ControlsControlos de CameraesUpArribaesResolution:Resolución:frHue, AutomaticTeinte, AutomatiqueruInput Device:Устройство ввода:nlStop VideoStop VideoplExtension controls were added to the UVC driverKontrolki rozszerzenia zostały dodane do steronika UVCdePlease make sure the camera is connected
+and that the correct driver is installed.Bitte stellen Sie sicher, dass die Kamera angeschlossen wird
+und dass die driver angebracht ist.esImage File:Archivo de Imagen:itWhite Balance Temperature, AutoBilanciamento del bianco automaticozh_TWaudio codec values音頻編碼器數值srPower Line FrequencyУчесталост освежавањаglPlease try restarting your system.Probe reiniciando o seu sistema.zh_TWHorizontal Center水平中心ukVideo File:Файл відео:srMPG2 - MPG2 formatМПГ2 — МПГ2 форматruExposure, AutoЭкспозиция, автоglAuto ExposureExposición automáticasrDo White BalanceУравнотежавање белогitAudioAudiocsLoad FileNahrát souborheNumber of Pictures to captureמספר תמונות ללכידהpt_BRsub cmp:   sub cmp:   csImage capture interval in secondsInterval snímání v sekundáchptPan ResetRotação (restaurar)euLoad FileKargatu fitxategiacsnewnovýsrMJPG - compressedМЈПГ — сажетиdeShow FPS value (enable(1) | disable (0))FPS anzeigen (aktivieren(1)|inaktivieren(0))heExposure, Auto Priorityחשיפה, עדיפות אוטומטיתdeMake sure your device driver is v4l2 compliant
+and that it is properly installed.Stellen Sie bitte sicher, dass Sie sowohl eine v4l2 kompatible Kamera besitzen als auch den Treiber geladen haben.pt_BRCapture method (1-mmap (default)  2-read)Método de captura (1-mmap (padrão) 2-leitura)heStop Videoעצור וידאוpt_BRMPG2 - MPG2 formatMPG2 - MPEG vídeo 2zh_TWGain增益it WahWah WahWahheSample Rate:קצב דגימהcsFrame size, default: 640x480Velikost rámce, výchozí: 640x480pt_BRAutoAutosrGuvcview Warning:Упозорење Камерице:ptWhite Balance Blue ComponentComponente AzuldeGammaGammaruRed BalanceБаланс красногоzh_TWSaturation飽和度ptExposure, AutoExposição, Autoitlaunch new process or restart?.
+
+vuoi lanciare un nuovo processo o riavviare?.
+
+esPlease try mmap instead (--capture_method=1).Intente, en vez de eso, mmap (--capture_method=1).frpre dia size:   taille pre dia:   ptcancelcancelaresVideo Format:Formato de Video:pt_BRCap. ImageCap. imagempt_BRVideo Codec:Codec de vídeo:csWhite Balance, AutomaticVyvážení bíléfr                              encoder fps:   
+ (0 - use fps combobox value)                              encodeur ips:   
+ (0 - utilise la valeur ips de la combobox)pt_BRImage File nameNome do arquivo de imagemcsSaturationSytosthrDo White BalanceUredi Ravnotežu BijelecsLED1 FrequencyFrekvence LED1gl1 - mono1 - monodeAuto Focus (continuous)Automatisch Fokus (con.)frPan (relative)Rotation Horizontale (valeur relative)nlContrastcontrastesSharpnessNitidezruFocus (Absolute)Фокусирование (Абсолютное)hrGuvcview Warning:Guvcview UpozorenjesrPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Формат тачака (mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)plBacklight CompensationKompensacja oświetlenia tłapt_BR Particles PartículasptFLV1 - flash video 1FLV1 - flash video 1heShow FPS value (enable(1) | disable (0))מראה ערך פריימים לשניה (FPS) (פעיל(1) | מנוטרל(2))it
+You have more than one video device installed.
+Do you want to try another one ?
+
+C'è più di un dispositivo video installato.
+Vuoi provare l'altro ?
+hrPlease make sure the camera is connected
+and that the correct driver is installed.Molim provjerite dali je kamera spojena
+i dali je instaliran ispravan driver.glLoad FileCargar un ficheiroitBlack LevelLivello del neropt_BRGuvcview error:
+
+Can't set a valid video stream for guvcviewErro do Guvcview:
+
+Não foi possível definir um fluxo de vídeo para o guvcviewpt_BRmax B frames:   Max quadros B:   ptExposure (Absolute)Exposição (Absoluta)srRed BalanceРавнотежа црвеногsr Fuzz МаљcsHorizontal CenterHorizontální středsrframerefs:   framerefs:   itPan, RelativePanoramica relativacsShow FPS value (enable(1) | disable (0))Zobrazit hodnotu FPS (povolit(1) | zakázat(0))fr Echo EchoplWhite Balance, AutomaticAutomatyczny balans bielide- local options- lokale WahlenfrCamera ControlsCommande de la camérazh_TWPlease try restarting your system.請試試重新啟動你的系統.ptMake sure your device driver is v4l2 compliant
+and that it is properly installed.Verfique se a sua camera é compativel com v4l2
+e se este se encontra devidamente instalado.pt_BRPrivacyPrivacidadeit12 bit12 bithrFrame size, default: 640x480Veličina slike, zadana: 640x480ukGain, AutomaticАвто посиленняzh_TWDisable video processing停用影像處理itZoom, ContinuousZoom continuohrLoad FileUčitaj DatotekuptGammaGammafrPULSEAUDIOPULSEAUDIOpt_BRSave FileSalvar arquivoitpre dia size:   dim. pre dia:   itAudio Format:Formato audio:esExposureExposicióneunewberriasrChannels:Број канала:plAuto ModeTryb automatycznypt_BRGuvcview:
+
+UVC Extension controlsGuvcview:
+
+Extensão de controles UVCukGuvcview error:
+
+Can't set a valid video stream for guvcviewПомилка:
+
+Не можу встановити правильний відео потік для GuvcviewptUser ControlsControlos de UtilizadoresHorizontal CenterCentrado horizontalesWhite Balance TemperatureBlanco (Temp. de color)ukExposure (Absolute)Абсолютна експозиціяtr Show GösterhrVideo Format:Video Format:ukPlease reconnect your camera.Будь ласка, повторно підключіть свою камеру.pl Show PokazfrPan, ResetPanoramique, Remise à zéroplSaturationNasyceniezh_TWBrightness亮度pt_BRManual ModeModo manualzh_TWPan (relative)Pan (相對的)heBacklight Compensationפיצוי אור אחוריitsubq:   subq:   pt_BRInput Device:Dispositivo de entrada:srExposure (Absolute)Излагање (апсолутно)pt_BRGuvcview Video CaptureCapturador de vídeo GuvcviewhrFLV1 - flash video 1FLV1 - flash video 1zh_TWSample Rate:範例碼率:plHue, AutomaticBarwa: Automatyczniecs2 - stereo2 - stereodestart newbeginnen neuehePlease reconnect your camera.אנא חבר מחדש את המצלמה.nlInput Device:Invoerapparaat:plFile num:%dPlik nr:%dsr Show ПрикажиesGammaGammadeLED1 ModeModus LED1ukRed BalanceБаланс червоногоeulaunch new process or restart?.
+
+prozesu berria hasi edo berrabiarazi?
+
+ptAuto ExposureExposição Automáticafr2 - stereo2 - stéréosr Reverb ОдјекukChroma AGCChroma AGCglrestartreiniciarpt_BROffDesligadofrTake Picture by DefaultCaptuer une Image par DéfautitExposure Time, AbsoluteTempo di esposizione assolutoukPlease make sure the camera is connected
+and that the correct driver is installed.Переконайтесь, що камера підключена
+і встановлено відповідний драйвер.helaunch new process or restart?.
+
+הפעל תהליך חדש או הפעל מחדש?.
+
+srGain, AutomaticПојачање, аутоматскиruFile num:%d№ п/п:%dit Show VU meter Visualizza VU meterptTake Video by DefaultVídeo por DefeitohrControl Profiles:Upravljački Profili:ptContrastContrasteglSharpnessFocalizaciónpt_BRcodec valuesvalores do codecda2 - stereo2 - stereofrImage Format:Format d'Image:zh_TWDisplays debug information顯示debug訊息pt_BRLeftEsquerdapt_BRpre cmp:   pre cmp:   es Pieces PedazosesStop AutoDetener autozh_TWGuvcview error:
+
+UVC Extension controlsGuvcview 錯誤:
+
+UVC 外掛控制frmax. qdiff:   qdiff max.:   ukqcompress:   qcompress   ukVertical CenterВертикальна серединаpt_BRPlease try restarting your system.Por favor, tente reiniciar o sistema.ptWMV1 - win. med. video 7WMV1 - wind. med. video 7es WahWah WahWahesConfiguration fileArchivo de configuracióndeHardware accelaration (enable(1) | disable(0))Hardware accel. (aktivieren(1) | inaktivieren(0))nl1 - mono1 - monofrMPEG4-ASPMPEG4-ASPzh_TW Negative負片效果ja Pieces 断片ukGuvcview error:
+
+Unable to create Video ThreadПомилка:
+
+Не можу створити потік команд для відеоzh_TW---- Video Filters -------影像濾波器---ptPower Line FrequencyFrequência da RederuNumber of initial frames to skipКоличество начальных кадров для пропускаzh_TWImage Controls影像設定pt_BRNot enough free space left on diskSem espaço livre suficiente no discofrMPG2 - MPG2 formatMPG2 - Mpeg video 2frExposure, AutoExposition, AutosrMPEG video 1МПЕГ видео 1itVideo Device to use [default: /dev/video0]Dispositivo video da utilizzare [predefinito: /dev/video0]pt_BRLED1 FrequencyFrequência LED1euBlue BalanceUrdin balantzeaheRGB - uncomp BMPRGB - BMP לא מקובץcsRGB - uncomp BMPRGB - uncomp BMPfrrestartRedémarrer l'applicationde1 - mono1 - MonohrZoom, RelativePribližavanje, Relativnoda Sound LydheAudio Format:פורמט שמעsrCamera Output:Излаз камере:ptGuvcview error:
+
+Can't set a valid video stream for guvcviewGuvcview erro:
+
+Não foi possível iniciar um formato video válidoglMPEG4-AVC (H264)MPEG4-AVC (H264)pt_BRWMV1 - win. med. video 7WMV1 - win. med. video 7srqcompress:   q-сажимање:   ukErrorПомилкаruAuto ModeАвторежимru8 bit8 битitStop AutoArresto automaticohraudio codec valuesvrijednosti audio codecahrAudio Format:Audio Format:pt_BRqblur:   qblur:   hrBlack LevelRazina Crne bojeptA video viewer and capturer for the linux uvc driverVisualize e capture imagens da sua webcam em linuxplGammaGammafrTilt (relative)Rotation Verticale (valeur relative)daSave FileGem filpt_BRVideo Device to use [default: /dev/video0]Dispositivo de vídeo para usar [padrão: /dev/video0]heAuto Modeמצב אוטומטיhenewחדשjaPrints versionバージョンを表示するheWhite Balance Temperature, Autoטמפרטורת איזון הלבן, אוטומטיתrupre dia size:   pre-dia-size:   ukPlease try mmap instead (--capture_method=1).Будь ласка, спробуйте mmap instead (--capture_method=1).jaFile num:%dファイル番号:%dsraudio codec valuesвредност кодека звукаhepropertiesמאפייניםzh_TWColor Effects色彩效果ptDev. DefaultAutomáticofrVideo Device to use [default: /dev/video0]Périphérique video (défaut: /dev/video0)zh_TWLED1 FrequencyLED1頻率frpre cmp:   pre cmp:   csDisable video processingZakázat zpracování videaitPlease report it to http://developer.berlios.de/bugs/?group_id=8179Siete pregati di segnalarlo a http://developer.berlios.de/bugs/?group_id=8179jaAudioオーディオcsPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Formát pixelu (mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)heImage Controlsפקדי תמונהeuGain, AutomaticIrabazia, AutomatikoaderestartNeustartpt_BRExtension controls were added to the UVC driverAs extensões de controles foram adicionadas ao driver UVChrPlease reconnect your camera.Molim ponovno spajanje kamere.glqmax:   qmax:   ptPrivacyPrivacidadefrPan, AbsolutePanoramique, AbsolusrVideo File name (capture from start)Име датотеке видеа (снимање од почетка)hrDev. DefaultZadane Postavke Uređajait- local options- opzioni localiplgop size:   rozmiar gop:   daLoad FileIndlæs filfrTilt, RelativeInclinaison, RelatifsrOnУкљ.hrAuto Focus (continuous)Automatski Focus (neprekidno)glResolution:Resolution:sr Invert ОбрнутоitColor EffectsEffetti del coloredeDevice:Eingabegerät:ukbit rate:   бітрейт:   pt_BRqcompress:   qcompress:   ptVideo Device to use [default: /dev/video0]Dispositivo de vídeo [defeito: /dev/video0]glImage File:Ficheiro de imaxe:csLoad Profile at startNačíst profil při spuštěníptset FocusFocarrugop size:   gop-size:   itGuvcview error:
+
+UVC Extension controlsErrore di Guvcview:
+
+Controlli dell'estensione di UVCit1 - mono1 - monoptControl Profiles:Perfis de Controlo:glMake sure the device driver supports v4l2.Asegúrese de que o controlador do dispositivo soporta v4l2.frlast predictor count:   compte du dernier indicateur:   itZoom, AbsoluteZoom assolutopt_BRWhite Balance, AutomaticBalanço de brancospt_BRGammaGamaptZoom, ContinuousZoom, ContinuoplpropertieswłaściwościhrMake sure your device driver is v4l2 compliant
+and that it is properly installed.Provjerite dali vaš video driver ima podršku za v4l2
+i pogledajte dali je ispravno instaliran.pt_BR Fuzz RuídosrDisable video processingОнемогући обрађивање видеаukSharpnessРізкістьruDevice:Устройство:fr Particles ParticulesukStop AutoЗупинитиglVertical FlipXiro verticalplMPEG4-ASPMPEG4-ASPdeDownRuntercsSave FileUložit souborfrFocus, AutomaticFocale, AutomatiquecsFocus, AutomaticZaostření, AutomatickycsFLV1 - flash video 1FLV1 - flash video 1uk1 - mono1 - моноptpropertiespropriedadeszh_TWqblur:   qblur:   heExits guvcview after closing videoיוצא מguvcview אחרי סגירת וידאוesExposure, Dynamic FramerateExposición, tasa de fotogramas dinámicaesme method:   Metodo me   pt_BRcancelcancelarptHue, AutomaticTonalidade, AutomáticoplPlease report it to http://developer.berlios.de/bugs/?group_id=8179Proszę zgłosić na http://developer.berlios.de/bugs/?group_id=8179srAuto ExposureАутоматска експозицијаzh_TWlaunch new process or restart?.
+
+啟動新的程序或重新啟動?
+
+zh_TWMJPG - compressedMJPG - compressedhrFocus, AbsoluteFokusiranje, Apsolutnopt- local options- opções locaiszh_TWSharpness銳利度deRaw bits per pixelRohe Bits pro Pixelru Ducky Утёнокfr WahWah WahWahfrImage File:Ficher Image:ruDisplays debug informationПоказывает информацию для отладкиeuPlease try restarting your system.Mesedez saiatu sistema berrabiarazten.euSaturationAsetasunazh_TWApply套用jaFrame Rate:フレームレート:ruDon't display a GUIНе отображать графический интерфейсitqmin:   qmin:   ptResolution:Resolução:pt_BRHorizontal FlipVirar horizontalmenteplRightPrawyfrGuvcview Video CaptureCapture de vidéo Guvcviewit monotonic pts punti monocromaticiukZoom, AbsoluteАбсолютний зумglExposure, Auto PriorityExposición, Prioridade automáticapt Mono CinzacsVideo Format:Formát videa:srTilt, ResetНагибање, поновноzh_TWExposure曝光度jaCap. Imageキャプチャ.画像zh_TW Invert倒置(垂直翻轉)nlAudio Format:Audioformaatru1 - mono1 - моноsrlast predictor count:   последњи број предсказивача:   plGuvcview error:
+
+Read method errorBłąd Guvcview:
+
+Błąd metody odczytuptShutter Priority ModeModo prioridade do obturadorptTilt, ResetInclinação, RestaurarcsCapture:Zaznamenat:itMPEG4-ASPMPEG4-ASPeuContrastKontrasteasrMake sure your device driver is v4l2 compliant
+and that it is properly installed.Уверите се да је управљачки програм вашег уређаја
+усаглашен са в4л2 и да је исправно инсталиран.srChroma AGCАГЦ хроминансеplDev. DefaultUrzadzenie domyślnedaVideo & FilesVideo & filerzh_TWWMV1 - win. med. video 7WMV1 - win. med. video 7ruNot enough free space left on diskНедостаточно свободного места на дискеptWhite Balance TemperatureBranco (Temp. de côr)ukManual ModeРучний режимsrErrorГрешкаesDisable video processingParar el proceso de vídeopt_BRGuvcview error:
+
+UVC Extension controlsErro do Guvcview:
+
+Extensões de controles UVCheHorizontal Centerמרכז אופקיheVideo Device to use [default: /dev/video0]התקן וידאו לשימוש [ברירת מחדל:/dev/video0]esExposure (Absolute)Exposición (Absoluta)frDownBascsAuto ExposureAutomatická korekce závěrkyrucodec valuesПараметры кодекаpt_BRVideo File name (capture from start)Arquivo de vídeo (captura ao iniciar)pt2 - stereo2 - stereofrqcompress:   qcompress:   srqmin:   qmin:   srVideo File:Датотека видеа:srDownДолеtrPlease try restarting your system.Lütfen  sistemi tekrar başlatmayı dene.hr Show PrikažiplPORTAUDIOPORTAUDIOsrGuvcview error:
+
+Unable to start with minimum setupГрешка Камерице:
+
+Не могу да започнем са минималним подешавањимаfrFLV1 - flash video 1FLV1 - flash video 1plFrame Rate:Klatki na sekundę:plControl Profiles:Kontrola profilihrGuvcview error:
+
+Couldn't query device capabilitiesGuvcview error:
+
+Sposobnost uređaja nije čitljivaruMake sure the device driver supports v4l2.Убедитесь в том, что драйвер устройства поддерживает v4l2.ruCap. VideoВидеоcsGuvcview error:
+
+Unable to start with minimum setupChyba Guvcview:
+
+Nelze spustit minimální konfguraciglGuvcview error:
+
+Unable to allocate BuffersErro de Guvcview:
+
+Non foi posíbel asignarlle memoria aos búferesfrNumber of Pictures to captureNombre d'images à enregistrernlHueTintglGammaGammacsFocus, AutoOstření, AutoptGain, AutomaticGanho, AutomáticoheExposureחשיפהpt_BRZoom, AbsoluteZoom, absolutoukLED1 FrequencyЧастота світлодіодаglCap. VideoCap. VideofrPrints versionAffiche la versionsrBlack LevelНиво црнеukMJPG - compressedMJPG - стисненоruGuvcview:
+
+UVC Extension controlsGuvcview:
+Управление UVC расширениямиplAudio Format:Format audio:hrWMV1 - win. med. video 7WMV1 - win. med. video 7jaImage ControlsイメージコントロールjaManual Mode手動モードheUser Controlsפקדי משתמשdeAudio API:Audio API:glExposure, AutoExposición, Automáticoukaudio codec valuesзначення аудіо-кодекаhe---- Video Filters ------- מסנני וידאו ---pt_BR Ducky Patinhoespre me:   pre me:   csColor EffectsBarevné efektyptWhite Balance, AutomaticBalanço de Brancos, Automáticopt_BRFrame Rate:Taxa de quadros:csstart newspustit novýukVideo Format:Формат відео:heMS MP4 V3MS MP4 V3ptAuto Focus (continuous)Focagem continuaru Mirror Гор. отражениеdeVideo & FilesVideo & DateienukShow FPS value (enable(1) | disable (0))Відображення частоти кадрів (увімкн.(1) | вимкн. (0))ruWMV1 - win. med. video 7WMV1 - видео Windows Media 7uk Invert Верт. віддзеркал.ruDev. Defaultпо умолчаниюruDownВнизzh_TWWhite Balance Temperature白平衡溫度zh_TWPULSEAUDIOPULSEAUDIOukGuvcview error:
+
+Unable to allocate BuffersПомилка:
+
+Не можу виділити місце під Буфери.srDefaultsОсновноpt_BRnum threads:   num threads:   frFocus, AbsoluteFocale, AbsolufrExposure Time, AbsoluteTemps d'exposition, AbsoluptExtension controls were added to the UVC driverOs controlos dinâmicos foram adicionados ao driver UVCesGuvcview error:
+
+Unable to start with minimum setupGuvcview error:
+
+No se pudo iniciar con la configuración mínimasrPlease try mmap instead (--capture_method=1).Молим покушајте „mmap“ уместо овог (--capture_method=1).ptZoom, RelativeZoom, RelativoheWhite Balance Component, Autoרכיב איזון הלבן, אוטומטיcsLED1 ModeMód LED1bsPlease make sure the camera is connected
+and that the correct driver is installed.Postarajte se da je kamera konektovana
+i da su pravi upravljački programi instalirani.frChannels:Canaux:pt_BRaudio codec valuesvalores do codec de áudiofrGain, AutomaticGain, AutomatiqueruFocus, AbsoluteФокус, СовершенныйruCamera Output:Вывод камеры:plZoom, RelativeWzględny zoomukrestartперезавантаж.jaResolution:解像度:itcmp:   cmp:   itLeftSinistrahe Mono מונוesCap. VideoCap. vídeoheCap. Imageלכד תמונהesdia size:   tamaño dia:   frExit after adding UVC extension controls (needs root/sudo)Quitter après avoir ajouter les contrôles d'extension (nécessite root/sudo)jaImage File:画像ファイル:csConfiguration fileKonfigurační souboritCap. ImageCattura immaginezh_TWPORTAUDIOPORTAUDIOruGUVCViewer ControlsПанель управления программы GUVCViewerptConfiguration fileFicheiro de configuraçãocsBacklight CompensationKomponzace podsvětleníukColor KillerПодавлювач кольоруptNot enough free space left on diskEspaço livre em disco insuficienteptPlease make sure the camera is connected
+and that the correct driver is installed.Por favor verifique a conexão
+e se o driver da camera se encontra instalado.ptFile num:%dFicheiro num:%des---- Video Filters -------- Filtros Video ----sr1 - mono1 — моноukWMV1 - win. med. video 7WMV1 - відео Windows Media 7ukDev. DefaultПристрій по замовч.csGuvcview:
+
+UVC Extension controlsGuvcview
+
+Rozšířené ovládání UVCesGuvcview error:
+
+Unable to allocate BuffersError de Guvcview:
+
+No se pudieron asignar búferesplExposure, AutoAuto ekspozycjasr8 bit8 битаhrPrivacyPrivatnostescancelcancelarsrqmax:   qmax:   itColor KillerKiller del coloreitVideo & FilesVideo e filedaWhite Balance Red ComponentHvid balance rød komponentsrHorizontal CenterВодоравно центрирањеruUser ControlsНастройки пользователяhrImage Format:Format Slike:deWhite Balance Temperature, AutoAutomatischer Weißabgleich (Temperatur)fr Fuzz Bruitpt_BRExposureExposiçãoeuCapture:Kaptura:srExit after adding UVC extension controls (needs root/sudo)Излази после додавања контрола УВЦ проширења (захтева „root/sudo“)deLoad FileDatei öffnenzh_TWTilt Reset傾斜重設srFocusФокусplmax B frames:   max klatek B:   de---- Audio Effects -------- Audiofilter ----ptFocus, RelativeFoco, Relativopl Negative NegatywitVideo capture time (in seconds)Durata della registrazione video (in secondi)frNot enough free space left on diskIl ne reste pas assez d'espace libre sur le disqueruLED1 FrequencyЧастота светодиода1pt_BRPULSEAUDIOPULSEAUDIOcsUser ControlsUživatelká nastaveníesImage ControlsControles de la imagenfrLoad FileCharger FichierruGain, AutomaticУсиление, автоматическиeuAuto ModeModu automatikoasrConfiguration fileДатотека подешавањаpt_BRWhite Balance Red ComponentBalando de branco componente vermelhoeustart newBerria hasizh_TWSave File存檔csVideo & FilesVideo & SouborydeVideo Device to use [default: /dev/video0]Videovorrichtung (/dev/video0)ruAudioАудиоukAuto Focus (continuous)Авто фокус (безперервний)pt_BRStop AutoParar auto:jaRGB - uncomp BMPRGB - 非圧縮 BMPheTilt, Relativeנטייה, יחסיesStop VideoDetener vídeoglGuvcview Video CaptureCapturador de vídeo GuvcviewplVideo Codec:Kodek wideo:pt_BRResolution:Resolução:hrExposureIzloženostuk- local options- локальні параметриsrcmp:   цмп:   plCapture:Przechwytywanie:euHorizontal FlipIrauli horizontalkipt_BRDon't display a GUINão mostrar GUIeuGuvcview:
+
+UVC Extension controlsGucview:
+
+UVC luzapenaren kontrolaksrGammaГамаzh_TWImage Format:圖片格式:ptRaw bits per pixelBits por pixel (Raw)pt_BRGuvcview error:
+
+Unable to allocate BuffersErro do Guvcview:
+
+Não foi possível alocar BuffersruExposure (Absolute)Выдержка (совершенная)csContrastKontrastfrDev. DefaultValeur par Défautitguvcviewguvcviewsrqblur:   q-замућење:   glUpArribacsNumber of initial frames to skipPočet prvních vynechaných snímkůhrpropertiessvojstvahestart newהפעל עכשיוitqblur:   qblur:   heWMV1 - win. med. video 7WMV1 - וינדוס מדיה וידאו 7rupropertiesСвойстваitGuvcview error:
+
+Unable to open deviceErrore di Guvcview:
+
+Impossibile accedere al dispositivosrAperture Priority ModeПриоритет блендеes1 - mono1 - monoru Show Показатьzh_TWLeft左srZoom, ContinuousЗум, непрекидниfrBrightnessLuminositéfr8 bit8 bitheConfiguration fileקובץ הגדרותcsPower Line FrequencyKmitočet sítěfrPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Format des pixels(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)heSaturationרוויהruErrorОшибкаhr Invert IzokrenutofrWhite Balance Component, AutoBalance des blancs par canal, Autopt_BRPower Line FrequencyFrequência da linha de transmissãosrCapture:Снимање:plqmax:   qmaks:   rupre me:   pre-me:   frcodec valuesvaleurs codecja Invert 反転srbit rate:   проток бита:   pt_BRCapture:Captura:ruVertical FlipОтразить по вертикалиpt1 - mono1 - monocsDo White BalanceVyvážit bílouruAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Произошла ошибка в добавление
+управлений к расширению UVC драйвера.
+Убедитесь, что вы запустили guvcview как root (или sudo)pt_BR WahWah WahWahhrApplyPrimjenihrManual ModeRučni NačinitPan ResetRipristina la panoramicaitDev. DefaultImpostazione predefinita del dispositivozh_TW Pieces馬賽克esAuto Focus (continuous)Foco Automatico (continuo)heBlack Levelרמת שחורfrColor EffectsEffets de couleureuRed BalanceGorri balantzeaplGuvcview error:
+
+UVC Extension controlsBłąd Guvcview:
+
+Kontrolki rozszerzenia UVCdaStop AutoStop autocs Sound Zvukes Negative NegativoheGuvcview error:
+
+Couldn't query device capabilitiesשגיאה בGuvcview:
+
+לא ניתן לבדוק את יכולות ההתקןcsRed BalanceVyvážení červenéfrRed BalanceBalance des rougesfrDisplays debug informationAfficher information extraitGainGuadagnohrFrame Rate:Broj Slika:pt_BRGuvcview error:
+
+Unable to start with minimum setupGuvcview erro:
+
+Não foi possível iniciar com as definições mínimasdaFocus, AutoFokus, autoitpre cmp:   pre cmp:   itTilt ResetRipristina l'inclinazionedeDisplays debug informationExtra Informationen anzeigenheApplyהחלdeWhite Balance Red ComponentWeißabgleich (Rot)frVideo File name (capture from start)Fichier video (enr. de début)hrShow FPS value (enable(1) | disable (0))Prikaz FPS broja (omoguči(1) | onemoguči (0))ruMPG2 - MPG2 formatMPG2 - формат MPG2cs- local options- místní nastavenífr Mirror MiroirjaImage File name画像ファイル名ukPower Line FrequencyЧастота електромережіesMPG2 - MPG2 formatMPG2 - MPG2 formatuk WahWah ВахВахde Mono MonochromglAuto ModeModo AutomáticoplInput Device:Urządzenie wejścia:frShutter Priority ModeMode Priorité VitessesrHardware accelaration (enable(1) | disable(0))Убрзање физичке компоненте (укључи(1) | искључи(0))itFocus, AbsoluteMessa a fuoco assolutafrNumber of initial frames to skipNombre d'images initiales à sauteritResolution:Risoluzione:zh_TW- local options-本地選項zh_TWGuvcview Warning:Guvcview警告:ruVideo Codec:Видео-кодек:daGuvcview error:
+
+Unable to start with minimum setupGuvcview fejl:
+
+Kunne ikke starte på minimum setupplcmp:   cmp:   pt_BRExits guvcview after closing videoTermina o guvcview depois de fechar o vídeohrExposure, Dynamic FramerateIzloženost, Broj Slikajarestart再起動heFrame size, default: 640x480גודל פריים, ברירת מחדל: 640x480ruExposure, Dynamic FramerateВыдержка, Динамичная частота кадровjaRight右heQuality:איכות:ptbit rate:   rácio de bitsglManual ModeModo ManualcsHardware accelaration (enable(1) | disable(0))Hardwarová akcelerace (povolit(1) | zakázat(0))hrCamera ControlsKontrole KamereruZoom, ContinuousУвеличение, ПостоянноеesDevice:Dispositivo de entrada:ptRightDireitazh_TWcodec values編解碼器的值pt_BRGainGanhoukChannels:Канали:pt_BRContrastContrastedaGuvcview error:
+
+Unable to create Video ThreadGuvcview fejl:
+
+Kunne ikke skabe video trådfrWMV1 - win. med. video 7WMV1 - wind. med. video 7srExposure, AutoИзлагање, аутоматскоcsrestartrestartda- local options- lokale valgmulighederitErrorErroreheImage Format:פורמט תמונה:ruFocus, RelativeФокус, Относительныйpl                              encoder fps:   
+ (0 - use fps combobox value)                              enkoder fps:   
+ (0 - użycie wartości fps combobox)pt_BR12 bit12 bitdeFrame Rate:Bildrate:sr monotonic pts једнообразне тачкеzh_TW Echo迴聲ukNumber of initial frames to skipКількість початкових кадрів для пропускуfrVideo capture time (in seconds)Durée de l'enr. video (secondes)plPlease try mmap instead (--capture_method=1).Proszę spróbować mmap zamiast (--capture_method=1).ru Reverb РеверберацияsrImage Format:Формат слике:pt_BRGain, AutomaticGanho, automáticoitPan/tilt ResetRipristina panoramica e inclinazioneukAuto ModeАвторежимjaDev. Defaultデバイス デフォルトdeManual ModeHändischer ModusptGUVCViewer ControlsGUVCViewer ControlosesDev. DefaultAutomáticoesChannels:Canales:esFocus, AutoFoco, AutoglTilt, ResetInclinación, RestabeleceritGuvcview Video CaptureCattura video di GuvcviewruRightВправоja- local options- ローカルオプションpt_BR Reverb Reverbzh_TWZoom, Continuous變焦,連續的ruPlease make sure the camera is connected
+and that the correct driver is installed.Пожалуйста убедитесь в том, что камера подключена
+и драйвер установлен корректно.fr Negative NégatifheCap. Videoלכד וידאוukImage Format:Формат знімку:hebit rate:   קצב סיביות:   glSaturationSaturacióndeAudio Format:Audio-Format:deImage Format:Bildformat:ruImage capture interval in secondsИнтервал между снимками (сек)ptExits guvcview after closing videoTermina guvcview depois de completar videoitExit after adding UVC extension controls (needs root/sudo)Uscire dopo aver aggiunto i controlli dell'estensione di UVC (necessita di root/sudo)pt_BRAudio API:API de áudio:srRightДесноplTilt, ResetReset nachyleniaptFile,AutoFicheiro,AutocsPlease try restarting your system.Prosím zkuste restartovat váš systém.glBrightnessBrilloplMPG2 - MPG2 formatMPG2 - MPG2 formathr Mono Monozh_TWPan, Relative筆,相對的ruOnВкл.jaSharpness鮮明度pt_BRChroma AGCAGC de Chromaeuset FocusFokatuitDon't display a GUINon visualizzare la GUIptcodec valuesValores do CodecdaChannels:Kanaler:itFLV1 - flash video 1FLV1 - flash video 1pt                              encoder fps:   
+ (0 - use fps combobox value)                              fps do codec:   
+ (0 - use o valor da combobox)itPULSEAUDIOPULSEAUDIOsrLoad FileУчитајте датотекуplCap. ImagePrzechwycenie obrazuesVideo Codec:Códec de vídeo:itGuvcview:
+
+UVC Extension controlsGuvcview:
+
+Controlli dell'estensione di UVCptOffDesligadosrnum threads:   бр. нити:   zh_TWImage File:照片檔名:ja2 - stereo2 - ステレオfrTilt, ResetInclinaison, Remise à zérojaFocus, Autoフォーカス,自動glColor EffectsEfectos de coritWhite Balance TemperatureBilanciamento del biancosrPan ResetПоновно праћењеpt_BRFocus, AutoFocagem, autozh_TWGuvcview:
+
+UVC Extension controlsGuvcview:
+
+UVC 外掛控制frGuvcview error:
+
+Unable to allocate BuffersErreur de Guvcview:
+
+Incapable d'assigner des tampons mémoiresplBrightnessJasność:jaRaw bits per pixel1画素あたりの生のビットitExposure, Auto PriorityEsposizione, priorità automaticahrstart newpokreni novoruFocusФокусированиеcsNumber of Pictures to capturePočet obrázků k zaznamenánífrFrame Rate:Fréquence d'image:pt_BRRaw bits per pixelBits brutos por pixelpt_BRMake sure the device driver supports v4l2.Por favor, verifique se o driver oferece suporte v4l2.deLoad Profile at startkontrollen - Datei öffnenptPORTAUDIOPORTAUDIOeslaunch new process or restart?.
+
+nuevo proceso o recomenzar?
+
+heSharpnessחדותhe1 - mono1 - מונוitVideo File name (capture from start)Nome del file video (registra dall'inizio)esNumber of initial frames to skipNúmero de fotogramas iniciales a omitirheTilt (relative)הטייה (יחסי)ruColor EffectsЦветовые эффектыzh_TWqcompress:   qcompress:   itBacklight CompensationCompensazione del controlucebsGuvcview error:
+
+UVC Extension controlsGUVCVju greška:
+
+UVC kontrola dodatakadenewNeuezh_TWFLV1 - flash video 1FLV1 - flash video 1ptColor EffectsEfeitos de CordaLED1 ModeLED1 tilstandruGuvcview error:
+
+Unable to open deviceОшибка Guvcview:
+
+Не удалось открыть устройствоukdia size:   dia size:   plExposure, Dynamic Frameratedynamiczna ilośc klatek/s ekspozycjiplcodec valueswartości kodekówzh_TWChroma AGC濃度AGCcsGainZiskukVideo & FilesВідео та ФайлиitWhite Balance Component, AutoBilanciamento dei componenti del bianco automaticoesPrints versionImprimir versiónplPan, RelativeWzględne PanptBlue BalanceBalanço de AzulruConfiguration fileКонфигурационный файлpt_BRPlease make sure the camera is connected
+and that the correct driver is installed.Por favor, verifique a conexão
+e se o driver correto está instalado.frShow FPS value (enable(1) | disable (0))Afficher img/sec (activer(1) | desactiver(0))pt_BRAudio Format:Formato de áudio:zh_TWBacklight Compensation背光補償srQuality:Квалитет:pt_BRVideo & FilesVídeo & arquivosdeImage ControlsBildkontrollenpt_BRQuality:Qualidade:frRightDroitetrSharpnessKeskinlikesFrame size, default: 640x480Resolución (defect: 640x480)itFocus, AutomaticMessa a fuoco automaticadeWhite Balance TemperatureWeißabgleich (Temperatur)es Mono GrisitAudio API:API dell'audio:pt_BR Sound SomruLoad FileЗагрузка файлаptErrorErroeucancelutzifrRaw bits per pixelDonnées brutes par pixelcsExposure, AutoExpozive, Autoru Negative НегативcsMPG2 - MPG2 formatMPG2 - formát MPG2frHorizontal FlipMiroir horizontalesPULSEAUDIOPULSEAUDIOeuFocus, AutoFoku automatikoajaConfiguration file設定ファイルsr Sound Звукitbit rate:   bit rate:   itMPEG video 1MPEG video 1zh_TWColor Killer顏色 killerfrCap. ImageEnr. ImageptHardware accelaration (enable(1) | disable(0))Aceleração vídeo por hardware (sim(1) | não(0))ptVideo Format:Formato de Video:glCamera Output:Saída da cámara:euGuvcview error:
+
+Unable to open deviceGucview errorea:
+
+Ez da posible gailua zabaltzeaja Echo EchoitSharpnessNitidezzaplExposure (Absolute)Ekspozycja (absolutna)ruAperture Priority ModeРежим приоритета диафрагмыcsQuality:Kvalita:itrestartriavviaru---- Video Filters -------- Видео-фильтры ----srpre me:   пре ме:   srSharpnessОштринаruqmin:   qmin:   ptGainGanhoitExtension controls were added to the UVC driverI controlli dell'estensione sono stati aggiunti al driver UVCfrLeftGaucheukpropertiesвластивостіptAuto ModeModo automáticoplPlease try restarting your system.Proszę zrestartować system.frBlue BalanceBalance des bleuspt_BRBrightnessBrilhosrZoom, RelativeЗум, релативниitDon't stream video (image controls only)Non attivare il flusso video (solo controlli dell'immagine)csBlack LevelÚroveň černéruAuto Focus (continuous)Автофокусировка (непрерывная)daGainForhøjelseptRed BalanceBalanço de Vermelhopt_BRVertical CenterEixo verticalptExposure, Dynamic FramerateExposição, Taxa de Frames DinâmicafrAutoAutomatiquecs Reverb OzvěnahePlease report it to http://developer.berlios.de/bugs/?group_id=8179דווח על כך לhttp://developer.berlios.de/bugs/?group_id=8179srDon't stream video (image controls only)Не пушта ток видеа (само контроле слике)ruGuvcview error:
+
+Unable to allocate BuffersОшибка Guvcview:
+
+Не удалось выделить место для буферовfr monotonic pts Pts monotonesdaSharpnessSkarphedhePlease try restarting your system.נסה לאתחל את המערכת.pt_BR Pieces PedaçoshrHorizontal FlipVodoravno Okretanjeitpre me:   pre me:   cspropertiesvlastnostiukVideo Device to use [default: /dev/video0]Використаний відео-пристрій [default: /dev/video0]srMake sure the device driver supports v4l2.Уверите се да управљачки програм уређаја подржава в4л2.jaLoad Profile at start開始時にプロファイルを読み込むesAudio API:Audio APIcsImage File:Soubor obrazu:hrImage ControlsKontrole Slikefrset FocusMise au Pointsrpre dia size:   пре диа величина:   hr Particles ČesticehrImage File nameIme Slikovne DatotekeesWhite Balance, AutomaticBalance de blancos, automáticopt_BRShutter Priority ModeModo prioridade do obturadorpt_BRGUVCViewer ControlsControles do GUVCViewerdaLoad Profile at startIndlæs profil ved startitCamera ControlsControlli della webcampt_BRTake Video by DefaultVídeo por DefeitoesSample Rate:Sample Rate:heWhite Balance, Automaticאיזון לובן, אוטומטיitAuto ExposureEsposizione automaticafrAuto ExposureExposition automatiqueitUpSoprahrResolution:Razlučivost:srMS MP4 V3МС МП4 В3pt_BRmax. qdiff:   qdiff max:   pt_BRAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Ocorreu um erro ao adicionar as extensões de
+controles ao driver UVC
+Verifique se iniciou o guvcview como root (ou sudo).daControl Profiles:Kontrol profiler:itDisplays debug informationVisualizza le informazioni di debughrCap. VideoSnimi VideoitPlease make sure the camera is connected
+and that the correct driver is installed.Assicurarsi che la webcam sia connessa
+e che sia installato il rispettivo driver.zh_TWCapture:擷取:ukNot enough free space left on diskНе вистачає вільного місця на дискуesUser ControlsControles de usuarioukRGB - uncomp BMPRGB - не стиснений BMPplGuvcview error:
+
+Can't set a valid video stream for guvcviewBłąd Guvcview:
+Nie można ustanowić prawidłowego strumienia wideo dla guvcviewzh_TW WahWah WahWahdaDisable video processingSlå video processer fracsVideo capture time (in seconds)Čas Video záznamu (v sekundách)itPan, ResetRipristina la panoramicanlCap. VideoVideo VastleggendaImage Format:Billed format:ukFLV1 - flash video 1FLV1 флеш-відео 1euBlack LevelBeltz-mailacsPlease make sure the camera is connected
+and that the correct driver is installed.Ujistěte se prosím, že vaše kamera je připojena,
+a že máte nainstalován správný ovladač.ptPlease reconnect your camera.Por favor remova e volte a conectar a camera.frVideo Format:Format Video:euGammaGammaesVertical FlipGiro verticalheHue, Automaticגוון, אוטומטיzh_TWExposure, Dynamic Framerate曝光，動態碼率srFile num:%dДат. бр.:%dheBrightnessבהירותzh_TWframerefs:   framerefs:   heMPG2 - MPG2 formatMPG2 - פורמט MPG2zh_TWAudio音頻ptFrame Rate:Taxa de imagens:zh_TWdia size:   dia size:   es Sound SonidoesLoad Profile at startCargar perfil al iniciofr- local options- options localessrRGB - uncomp BMPРГБ — несажети БМПukTilt ResetСкинути нахилzh_TWTilt (relative)傾斜(相對的)hrContrastKontrastukGUVCViewer ControlsПанель налаштувань GuvcviewplPan, AbsoluteAbsolutny PanitRed BalanceBilanciamento del rossodaGammaGammaheFile,Autoקובץ,אוטומטיsrAuto ModeАутоматскиruWhite Balance TemperatureТемпература баланса белогоfrgop size:   taille gop:   hrRed BalanceRavnoteža CrveneitVertical FlipRifletti verticalmentesrTilt ResetПоновно нагибањеzh_TWMPEG4-AVC (H264)MPEG4-AVC (H264)hrExits guvcview after closing videoIzlaz iz guvcviewa nakon zatvaranja videaheDisable video processingבטל עיבוד וידאוdeBacklight CompensationKorrektur der Hintergrundbeleuchtungfrmb decision:   décision mb:   csRaw bits per pixelRaw bity / pxelplMPEG video 1MPEG video 1pt_BRPan ResetRestaurar deslocamentoitsub cmp:   sub cmp:   pt_BRPan/tilt ResetRestaurar Des./Incl.ptPan, RelativeRotação, relativazh_TWqmax:   qmax:   esFocusEnfoqueitApplyApplicasrExposure, Dynamic FramerateИзлагање, динамички проток кадраfrGuvcview error:
+
+Read method errorErreur de Gubvcviewr :
+
+erreur de lecteurept_BRqmax:   qmax:   csCamera ControlsOvládání kamerydePan/tilt ResetUmdrehung/Neigung (Zurückstellen)ruAutoАвтоfrCap. VideoEnr. VideofrPan/tilt ResetRotation Horizontale/Verticale (remise à zero)ja---- Audio Effects -------- オーディオ エフェクト ----srGuvcview error:
+
+UVC Extension controlsГрешка Камерице:
+
+Контроле УВЦ проширењаesVideo File:Archivo Video:glpropertiespropiedadesukcancelвідмінитиpt_BRWhite Balance Blue ComponentBalanço de branco componente azulzh_TWExposure, Auto Priority曝光，自動優先frResolution:Résolution:frAudio API:Audio API:ptCap. ImageCap. Imagempt_BRBlinkingIntermitentede Invert GedrehtruGuvcview Video CaptureЗаxват видео через Guvcviewpt Reverb Reverbzh_TWRight右heGuvcview error:
+
+Unable to open deviceשגיאה בGuvcview:
+
+לא יכול לפתוח התקןgl Sound SonesDownAbajopt_BRTilt, ResetInclinação, restaurarplCamera ControlsKontrola kameryukPan ResetСкинути поворотitNumber of Pictures to captureNumero di immagini da registrarept_BRImage capture interval in secondsIntervalo de captura de imagens em segundosesFLV1 - flash video 1FLV1 - flash video 1ru
+You have more than one video device installed.
+Do you want to try another one ?
+
+У вас установлен дополнительный видео прибор.
+Хотите попробовать другой?
+sr- local options— локална опцијаjaLED1 ModeLED1 モードdeGuvcview error:
+
+Unable to allocate BuffersGuvcview Fehler:
+
+Konnte keine Puffer anlegenglInput Device:Dispositivo de entrada:esmax. qdiff:   máx. qdiff:   ptImage capture interval in secondsIntervalo de captura de imagens em segundosfrHardware accelaration (enable(1) | disable(0))Accel. matérielle (activer(1) | desactiver(0))itqmax:   qmax:   esBacklight CompensationCompensación de retroiluminaciónruGuvcview error:
+
+Couldn't query device capabilitiesОшибка Guvcview:
+Не могу получить свойства устройстваhr---- Video Filters -------- Video Filteri ----csDevice:Zařízení:ptImage File nameFicheiro de Imagem:srGuvcview error:
+
+Unable to open deviceГрешка Камерице:
+
+Не могу да отворим уређајglSample Rate:Taxa de mostraxe:ruPORTAUDIOPORTAUDIOfr12 bit12 bitplFocus (Absolute)Ostrość (absolutna)glDevice:Dispositivo:es Reverb ReverbesFile num:%dArchivo num:%dpt Pieces Pedaçoszh_TWNot enough free space left on disk在硬碟上沒有足夠的剩餘空間srAuto Focus (continuous)Самостално фокусирање (непрекидно)csFrame Rate:Snímkový kmitočetzh_TWRGB - uncomp BMPRGB - uncomp BMPglImage File nameNome da imaxesrsubq:   под-q:   he Mirror מראהukInput Device:Пристрій вводу:fr Sound SonsrUpГореtr2 - stereo2 - stereozh_TWDev. DefaultDev. DefaultdaWhite Balance Temperature, AutoHvid balance temperatur, autoruMPEG video 1MPEG-видео 1frExposure (Absolute)Exposition (valeur absolue)itDevice:Dispositivo:csRightVpravofrExposure, Auto PriorityExposition, mode automatiquesrFrame size, default: 640x480Величина кадра, основна: 640к480itGuvcview error:
+
+Can't set a valid video stream for guvcviewErrore di Guvcview:
+
+Impossibile impostare un flusso video valido per guvcviewheGuvcview error:
+
+Read method errorשגיאה בGuvcview:
+
+קרא שגיאת שיטהukFocus, RelativeВідносний фокусzh_TWResolution:影像尺寸:ukCapture:Захоплення:srVertical FlipУсправно превртањеfr Show VU meter Afficher le VU-mètresrrestartпоново покрениheContrastניגודיותruCamera ControlsНастройки камерыptLoad FileAbrir FicheirofrBlinkingClignotementheFLV1 - flash video 1FLV1 - וידאו פלאש 1srGainПојачањеjalaunch new process or restart?.
+
+新しいプロセスを立ち上げるか、再起動しますか?
+
+srlaunch new process or restart?.
+
+да покренем нови процес или да се поново покренем?.
+
+pt_BRFocus, AutomaticFoco, automáticopt_BRBlue BalanceBalanço do azulhrNot enough free space left on diskNema dovoljno slobodnog prostora na diskuukMake sure the device driver supports v4l2.Переконайтесь, що драйвер пристрою підтримує v4l2srstart newпокрени новиitPlease try restarting your system.Provare a riavviare il sistema.heFocus, Automaticמיקוד, אוטומטיde Show AnzeigenukPan, AbsoluteАбсолютний поворотpt_BRpropertiespropriedadesptDisplays debug informationApresenta Informação para DepuraçãoeurestartberrabiaraziitFrame size, default: 640x480Risoluzione predefinita: 640x480esFocus, AbsoluteEnfoque, Absolutogl Mono MonoukVideo Codec:Відео-кодек:pt_BRLoad FileAbrir arquivosrMPEG4-ASPМПЕГ4-АСПruShow FPS value (enable(1) | disable (0))Отображение частоты кадров (вкл.(1) | выкл.(0))euNot enough free space left on diskEz dago leku nahikorik diskoanheMJPG - compressedMJPG - מקובץfrExposureExpositiongl Negative NegativodeFrame size, default: 640x480Auflösung (def. 640x480)pt_BRnewnovodeSample Rate:Frequenz:dePlease report it to http://developer.berlios.de/bugs/?group_id=8179Bitte melden Sie dies an http://developer.berlios.de/bugs/?group_id=8179frPlease try restarting your system.Veuillez essayer de redémarrer votre système.dePower Line FrequencyNetzfrequenzzh_TWYUY2 - uncomp YUVYUY2 - uncomp YUVptDownDesceritOffSpentoglHueTonglsub cmp:   sub cmp:   plContrastKontrastpt_BRExposure, Dynamic FramerateExposição, taxa de quadros dinâmicosjaAudio Format:音楽フォーマット:ru Mono Чёрно-белоеfrFocus, RelativeFocale, RelatifsrVideo Format:Формат снимка:frqmin:   qmin :   heFocus, Autoמיקוד, אוטומטיzh_TWDefaults預設值es Fuzz Ruidozh_TWFocus (Absolute)對焦(絕對的)srLeftЛевоitAutoAutomaticodeUpHochit Fuzz Rumorept_BRset FocusDefinir focosrFocus, AutoФокус, аутоukCap. ImageЗнімокukDo White BalanceЗбалансувати білийukGuvcview error:
+
+Couldn't query device capabilitiesПомилка:
+
+Не можу надіслати запит про можливості пристроюja Sound サウンドukRightПравийpt_BRDo White BalanceFazer balanço de brancosglMPEG4-ASPMPEG4-ASPpt_BRRightDireitanlcancelannulerenfrcancelAnnulerzh_TWVertical Center垂直中心pt_BR Invert Invertidozh_TWPan ResetPan 重設fr Mono MonochromeesVertical CenterCentrado verticalpt_BRImage File:Arquivo de imagem:deGainGewinnruRGB - uncomp BMPRGB - несжатый BMPsrPan, ResetПраћење, поновноcsMPEG video 1MPEG video 1jaAuto Mode自動モードsrPrivacyПриватностnlCapture:Opnemen:srShow FPS value (enable(1) | disable (0))Приказује ФПС вредност (укључи (1) | искључи (0))esPlease make sure the camera is connected
+and that the correct driver is installed.Por favor, verifique de que la cámara esté conectada
+y que se instaló el controlador correcto.srWhite Balance Component, AutoСастојак равнотеже белог, аутоjaGuvcview error:
+
+Unable to start with minimum setupGuvcview エラー:
+
+最小限のセットアップから始めることができませんfrQuality:Qualité:plGuvcview:
+
+UVC Extension controlsGuvcview:
+
+Kontrolki rozszerzenia UVCpt_BRdia size:   tamanho do dia:   esDon't stream video (image controls only)No hacer streaming de vídeo (sólo controles)uk Reverb РевербаціяdaWhite Balance TemperatureHvid balance temperaturitImage ControlsControlli dell'immaginedeInput Device:Eingabegerät:hrPlease try restarting your system.Probajte ponovno pokrenuti vaš sustav.glGuvcview error:
+
+Unable to create Video ThreadErro en Guvcview:
+
+Non foi posíble crear un fío de execución de vídeoitTake Picture by DefaultPrendi l'immagine predefinitaptImage File:Ficheiro de Imagem:tr1 - mono1 - monogl Reverb ReverberarglPULSEAUDIOPULSEAUDIOfrImage File nameFicher ImagesrUser ControlsКонтроле корисникаgl Mirror EspellodaVideo Device to use [default: /dev/video0]Video udstyr at benyttet [default: /dev/video0]heCamera Output:פלט מצלמה:ptDon't stream video (image controls only)Desabilitar o streaming de vídeo (apenas controlos)itExposure, AutoEsposizione automaticaukVertical FlipВертикальне віддзеркаленняpt_BRColor EffectsEfeitos de cordeGUVCViewer ControlsGUVCViewer KontrollenhrGuvcview:
+
+UVC Extension controlsGuvcview:
+
+UVC kontrole Ekstenzijeglpre cmp:   pre cmp:   srWhite Balance TemperatureТемпература равнотеже белогzh_TWAuto Mode自動模式ptWhite Balance Red ComponentComponente Vermelhocsset Focusnastavit Ostřeníuk---- Video Filters -------- Відео фільтри ----itBrightnessLuminositàruPULSEAUDIOPULSEAUDIOitGammaGammanlMPG2 - MPG2 formatMPG2 - MPG2 formaatpl Mono Monorulast predictor count:   last-predictor-count:   itShutter Priority ModeModalità di priorità dell'otturatoreitRGB - uncomp BMPRGB - BMP non compressogl2 - stereo2 - stereoesPower Line FrequencyFrecuencia de la línea eléctricapl1 - mono1 - monopt_BR Echo Ecocs---- Audio Effects -------- Zvukové efekty ----srHueНијансаitImage Format:Formato dell'immagine:hrMake sure the device driver supports v4l2.Provjerite da vaš driver ima podršku za v4l2.zh_TWMS MP4 V3MS MP4 V3jaPlease report it to http://developer.berlios.de/bugs/?group_id=8179http://developer.berlios.de/bugs/?group_id=8179 にレポートしてください。csPlease try mmap instead (--capture_method=1).Místo (--capture_method=1) zkuste mmap.srcodec valuesвредности кодекаsrNumber of initial frames to skipБрој почетних кадрова за прескакањеnlFLV1 - flash video 1FLV1 - flash video 1frHorizontal CenterCentré Horizontalementuk Particles ЧасточкиheVideo File name (capture from start)שם קובץ וידאו (לוכד מההתחלה)glFocus, AbsoluteFoco, absolutoptPlease report it to http://developer.berlios.de/bugs/?group_id=8179Por favor reporte em http://developer.berlios.de/bugs/?group_id=8179esMake sure your device driver is v4l2 compliant
+and that it is properly installed.Asegúrese de que tiene un controlador v4l2
+y que está instalado.daStop VideoStop VideoitHue, AutomaticColore automaticoitPrivacyPrivacyda Negative Negativpt_BRMPEG4-ASPMPEG4-ASPheVideo Codec:מקודד וידאו:hrMPG2 - MPG2 formatMPG2 - MPG2 formatitDo White BalanceBilanciamento del biancoukframerefs:   framerefs:   esGuvcview error:
+
+Read method errorError de Guvcview:
+
+error de método ReadptBlinkingIntermitentenlbit rate:   bitrate:   jaExposure, Auto露出、自動ptManual ModeModo manualpt_BRRGB - uncomp BMPRGB - Sem compressão BMPheRightימיןsrPORTAUDIOПОРТАУДИОitGuvcview error:
+
+Couldn't query device capabilitiesErrore di Guvcview:
+
+Impossibile interrogare le funzionalità del dispositivosrTake Picture by DefaultСними слику по основиnlAudio API:Audio API:plBlue BalanceBalans niebieskiegozh_TWVideo File name (capture from start)影像檔案名稱(從開始擷取)bsExtension controls were added to the UVC driverKontrola dodataka je dodata na UVC drajverherestartהפעל מחדשfrExposure, Dynamic FramerateExposition, Nombre d'images par seconde dynamiquetrVideo Format:Video dosya:frCapture:Enregistrement :srnewновиukFile num:%dФайл №: %dptAperture Priority ModeModo prioridade da aberturacsFocusZaostřeníglmax. qdiff:   max. qdiff:   itImage File nameNome del file immagineheExposure Time, Absoluteזמן חשיפה, מוחלטdaFrame size, default: 640x480Ramme størrelse, standard: 640x480ptBlack LevelNível do PretoeuImage ControlsIrudi kontrolakptPlease try mmap instead (--capture_method=1).Por favor experimente mmap (--capture_method=1)deCap. ImageBild aufnehmenjaWhite Balance Blue Componentホワイトバランス青成分frdia size:   taille dia:   ruPixel format(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)Формат пикселя(mjpg|jpeg|yuyv|yvyu|uyvy|yyuv|yu12|yv12|nv12|nv21|nv16|nv61|y41p|grey|y16 |s501|s505|s508|gbrg|grbg|ba81|rggb|bgr3|rgb3)zh_TWVideo Device to use [default: /dev/video0]使用影像設備[default: /dev/video0]pt_BRStop VideoParar vídeozh_TWDon't stream video (image controls only)不能串流影像(只能控制圖片)it Ducky AnatroccoloruBlue BalanceБаланс синегоruResolution:Разрешение:itWhite Balance Blue ComponentBilanciamento del bianco, canale bluzh_TWDo White Balance設置白平衡pt Mirror Espelhopt_BRCamera ControlsControles de câmerahrLoad Profile at startUčitaj Profil pri pokretanjunlLED1 ModeLED1 Modezh_TWFocus對焦gl Show MostrarsrPlease report it to http://developer.berlios.de/bugs/?group_id=8179Молим пријавите на адресу: http://developer.berlios.de/bugs/?group_id=8179esManual ModeModo manualpt_BRlaunch new process or restart?.
+
+lançar novo processo ou recomeçar?.
+
+hrFocusFokusiranjezh_TWAuto Exposure自動曝光glAuto Focus (continuous)Foco automático(continuo)hrFocus, RelativeFokusiranje, RelativnoukFile,AutoАвто файлpt---- Audio Effects -------- Efeitos de Audio ----glnewnovoukColor EffectsЕфекти кольоруheBlue Balanceאיזון הכחולglExposure Time, AbsoluteTempo de exposición, AbsolutoptApplyAplicarukFocus, AbsoluteАбсолютний фокусpt_BR---- Audio Effects -------- Efeitos de áudio ----pt_BRHardware accelaration (enable(1) | disable(0))Aceleração de hardware (habilitado(1) | desabilitado(0))deGuvcview error:
+
+Couldn't query device capabilitiesGuvcview Fehler:
+
+Das Gerät konnte nicht geöffnet werdenpt_BRErrorErroheStop Autoעצור לכידה אוטומטיתpt_BRPan, AbsoluteDeslocamento, absolutodaRGB - uncomp BMPRGB - ukomprimeret BMPitImage capture interval in secondsIntervallo di registrazione dell'immagine in secondiesWhite Balance Component, AutoComponente de color, AutoukGuvcview Video CaptureЗахоплювач відео GuvcviewukRaw bits per pixelСирі біти на піксельtr Echo GöstersrInput Device:Улазни уређај:heGuvcview error:
+
+Can't set a valid video stream for guvcviewשגיאה בGuvcview:
+
+לא יכול להגדיר זרימת וידאו תקפה לguvcviewhrColor EffectsEfekti Bojezh_TW Ducky DuckysrVideo Device to use [default: /dev/video0]Видео уређај за коришћење [основни: „/dev/video0“]ukConfiguration fileФайл конфігураціїhrrestartponovo pokreninlRightRechtsruRaw bits per pixelКол-во бит на пикселukme method:   me method:   jaHardware accelaration (enable(1) | disable(0))ハードウェアアクセラレーション (有効(1) | 無効(0))zh_TWWhite Balance, Automatic自動白平衡ruAudio API:Аудио-API:zh_TWVertical Flip垂直翻轉jaControl Profiles:コントロールプロファイル:csBlue BalanceVyvážení modréruVertical CenterВертикальный центрesMake sure the device driver supports v4l2.Asegúrese de que el controlador del dispositivo soporta v4l2.itCapture:Cattura:ptNumber of Pictures to captureNumero de imagens a capturarpt_BRFile num:%dArquivo num:%djaDisplays debug informationデバッグ情報を表示するde Echo EchoesSave FileGuardar Archivozh_TWUser Controls使用者設定deAuto ModeAutomatischer ModushrExposure Time, AbsoluteVrijeme Izloženosti, Apsolutnopl2 - stereo2 - stereodaInput Device:Input udstyr:uk Sound Звукzh_TWTilt, Reset傾斜,重設ukYUY2 - uncomp YUVYUY2 - не стиснений YUVptFocusFocoitPrints versionVisualizza la versionept_BRControl Profiles:Perfis de controles:frStop AutoArrêt AutomatiqueheSave Fileשמור קובץhrVideo File name (capture from start)Ime Video Datoteke (snimka od početka)heMPEG video 1MPEG וידאו 1ruFrame size, default: 640x480Размер кадра (по умолчанию 640х480)ukDownВнизpt_BRpre dia size:   tamanho do diâ pré:   plFocus, AbsoluteOstrośc absolutnafrImage ControlsRéglages de l'imageheUpלמעלהhrAuto ModeAutomatski NačinptTilt, RelativeInclinação, Relativapt Echo EcoruVideo Device to use [default: /dev/video0]Используемое видео-устройство (по умолчанию /dev/video0)hrZoom, ContinuousPribližavanje, Neprestanopt_BRPlease reconnect your camera.Por favor, reconecte sua câmera.heGuvcview error:
+
+Unable to allocate Buffersשגיאה בGuvcview:
+
+לא ניתן להקצות חוצץglRed BalanceBalance vermelloruMS MP4 V3MS MP4 V3ruExposureЭкспозицияsrdia size:   диа величина:   ja Negative ネガzh_TWsubq:   subq:   euStop VideoBideoa geldituitExposure, Dynamic FramerateEsposizione, framerate dinamicopt_BR2 - stereo2 - stereoruGainУсилениеrucmp:   cmp:   srLED1 FrequencyЛЕД1 учесталостda Mono MonohrVideo capture time (in seconds)Vrijeme snimanja videa (u sekundama)jaGUVCViewer ControlsGUVCViewer コントロールuk2 - stereo2 - стереоesPrivacyPrivacidadsrFile,AutoДатотека, самосталноpt_BRqmin:   qmin:   zh_TWWhite Balance Red Component白平衡紅元件frFocus (Absolute)Mise au point (Absolue)hrDevice:Uređaj:ukCap. VideoВідеоptChannels:Canais:csYUY2 - uncomp YUVYUY2 - uncomp YUVcsPULSEAUDIOPULSEAUDIOhrGuvcview error:
+
+UVC Extension controlsGuvcview:
+
+UVC kontrole EkstenzijeukUpВверхitVideo Codec:Codec video:zh_TWAperture Priority Mode光圈優先模式trContrastKarşıtlıknlSharpnessScherpteukHorizontal CenterГоризонтальна серединаjaWhite Balance Red Componentホワイトバランス赤成分uk---- Audio Effects -------- Ефекти аудіо ----it2 - stereo2 - stereoptPan (relative)Rotação (relativa)pt Fuzz RuidoukPrivacyКонфіденційністьdeBrightnessHelligkeitesExits guvcview after closing videoSalir de guvcview después de cerrar el vídeoukCamera Output:Вивід камери:frDevice:Périphérique d'Entrée:frAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Une erreur est survenue lors de l'ajout 
+des contrôles d'extension du pilote UVC.
+Assurez-vous d'avoir lancé guvcview 
+en tant qu'utilisateur root (ou sudo).ruSaturationНасыщенностьglPlease reconnect your camera.Conecte de novo a súa camara.daDisplays debug informationVis debug informationhrConfiguration fileDatoteka Postavkiplbit rate:   bit rate:   pt_BR Mono CinzadeStop AutoAutomatisch anhaltenglCapture:Capturar:hrVideo Codec:Video Codec:srCapture method (1-mmap (default)  2-read)Начин снимања (1-ммап (основно) 2-читај)es Echo EcofrFile num:%dFichier num:%ditNumber of initial frames to skipNumero di immagini iniziali da ignorareukSave FileЗберегтиuk Mono Чорно-білеheGUVCViewer Controlsפקדי GUVCViewerukImage File nameФайл зображенняtr Mono MonosrZoom, AbsoluteЗум, апсолутниglpre me:   pre me:   esDisplays debug informationExhibir information de depuracionsrHorizontal FlipВодоравно превртањеesDefaultsPredeterminadosfrWhite Balance, AutomaticBalance des blancs, AutomatiqueesWMV1 - win. med. video 7WMV1 - win. med. video 7plWhite Balance Component, AutoAutomatyczny komponent balansu bielipt_BRDon't stream video (image controls only)Desabilitar o fluxo de vídeo (apenas controles de imagens)trSave FileDosyayı KaydetitDownSottozh_TWset Focus設定焦點hrset Focuspostavi fokusiranjeheWhite Balance Temperatureטפמרטורת איזון הלבןpt_BRBlack LevelNíveis de pretofrGuvcview error:
+
+UVC Extension controlsErreur de Guvcview :
+
+Contrôles de l'extension UVCcsInput Device:Vstupní zařízení:sr
+You have more than one video device installed.
+Do you want to try another one ?
+
+Имате инсталираних неколико видео уређаја.
+Желите ли да пробате неки други
+ukExposure, Auto PriorityПріоритет авто експозиціїhrVertical FlipOkomito OkretanjeruPlease try mmap instead (--capture_method=1).Попробуйте лучше mmap (--capture_method=1).srGuvcview error:
+
+Read method errorГрешка Камерице:
+
+Грешка режима читањаesAuto ExposureExposición automáticanlPORTAUDIOPORTAUDIOit---- Video Filters -------- Filtri video ----csPORTAUDIOPORTAUDIOptAutoAutopt_BRRed BalanceBalanço do vermelhojaMJPG - compressedMJPG - 圧縮ukResolution:Роздільна здатність:esImage Format:Formato de Imagen:cs Mirror ZrcadlosrColor EffectsЕфекти бојеzh_TWsub cmp:   sub cmp:   esExposure Time, AbsoluteTiempo de exposición, absolutoukFocusФокусsrPan, RelativeПраћење, релативноsrGuvcview error:
+
+Unable to allocate BuffersГрешка Камерице:
+
+Не могу да доделим БафереitPlease try mmap instead (--capture_method=1).In alternativa, provare mmap (--capture_method=1).ru2 - stereo2 - стереоfrErrorErreursrWhite Balance Blue ComponentПлави састојак равнотеже белогcs Invert InvertovatesGain, AutomaticGanancia, automáticosrmax. qdiff:   max. q разл:   zh_TWStop Video停止錄影ukFocus (Absolute)Абсолютний фокусnlSaturationVerzadigingpt_BRChannels:Canais:pt_BRGuvcview error:
+
+Unable to open deviceErro do Guvcview:
+
+Não foi possível conectar a câmeraukExposure, Dynamic FramerateЕкспозиція, динамічна частота кадрівglcancelcancelarzh_TWWhite Balance Temperature, Auto白平衡溫度，自動zh_TWGuvcview error:
+
+Unable to start with minimum setupGuvcview 錯誤:
+
+無法啟動最小安裝ptZoom, AbsoluteZoom, AbsolutoplAn error occurred while adding extension
+controls to the UVC driver
+Make sure you run guvcview as root (or sudo).Wystąpił błąd podczas dodawania kontrolek
+rozszerzenia sterownika UVC
+Guvciew musi być uruchomiony w trybie root(lub sudo).heRed Balanceאיזון האדוםzh_TWShow FPS value (enable(1) | disable (0))顯示FPS值(啟用(1) | 停用 (0))rulaunch new process or restart?.
+
+Запустить новый процесс или перезапустить?
+
+trBrightnessParlaklıkfrDon't display a GUINe pas afficher d'interface graphiqueplMake sure the device driver supports v4l2.Upewnij się, że urządzenie obsługuje v4l2.hrBacklight CompensationIspravke pozadinskog osvjetljenjazh_TWPlease make sure the camera is connected
+and that the correct driver is installed.請確定攝影機已連接
+且已安裝正確的驅動程式zh_TWMake sure the device driver supports v4l2.確定你的設備驅動程式支援 v4l2.daRightHøjreeuDo White BalanceZuri-balantzea eginglGainGananciaitPower Line FrequencyFrequenza di aggiornamentoda Invert VenddeNumber of Pictures to captureBildquantitätzh_TWStop Auto停止 自動ptPan, AbsoluteRotação, Absolutaitmb decision:   decisione mb:   heExposure (Absolute)חשיפה (מוחלטת)plDefaultsDomyślneglRightDereitaukDon't stream video (image controls only)Не потокове відео (керувати лише зображенням)pt_BRNumber of Pictures to captureNumero de imagens a capturarptFocus (absolute)Focagem (absoluta)frnum threads:   nb threads:   glset FocusDefinir focoeuExposureEsposizioaesAudioAudioitCamera Output:Uscita della webcam:
